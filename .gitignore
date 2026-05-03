@@ -1,0 +1,4 @@
+__pycache__/
+.env
+*.log
+businessweekly_concerts_launchd.*.log

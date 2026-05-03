@@ -1,0 +1,43 @@
+name: Business Weekly Concert Notifications
+
+on:
+  schedule:
+    # Taiwan Sunday 09:00 = UTC Sunday 01:00.
+    - cron: "0 1 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    env:
+      DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape and notify Discord
+        run: |
+          python scrape_businessweekly_concerts.py \
+            --output businessweekly_concerts.json \
+            --diff-output businessweekly_concerts_changes.json \
+            --log businessweekly_concerts.log
+
+      - name: Commit updated scrape results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add businessweekly_concerts.json businessweekly_concerts_changes.json
+          git diff --cached --quiet || git commit -m "Update Business Weekly concert data"
+          git push
