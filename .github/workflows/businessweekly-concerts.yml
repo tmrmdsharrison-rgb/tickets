@@ -2,8 +2,8 @@ name: Business Weekly Concert Notifications
 
 on:
   schedule:
-    # Taiwan Sunday 09:00 = UTC Sunday 01:00.
-    - cron: "0 1 * * 0"
+    # Taiwan Sunday and Wednesday 09:00 = UTC Sunday and Wednesday 01:00.
+    - cron: "0 1 * * 0,3"
   workflow_dispatch:
 
 permissions:
