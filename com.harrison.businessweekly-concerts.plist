@@ -8,7 +8,6 @@
 
   <key>ProgramArguments</key>
   <array>
-    <string>/bin/zsh</string>
     <string>/Users/harrison/Desktop/tickets/ticket finding/weekly_businessweekly_update.sh</string>
   </array>
 

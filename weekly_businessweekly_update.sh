@@ -10,7 +10,7 @@ fi
 
 cd "$PROJECT_DIR"
 
-python3 scrape_businessweekly_concerts.py \
+/Users/harrison/.pyenv/versions/3.11.8/bin/python3 scrape_businessweekly_concerts.py \
   --output businessweekly_concerts.json \
   --diff-output businessweekly_concerts_changes.json \
   --log businessweekly_concerts.log
