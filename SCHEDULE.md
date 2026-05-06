@@ -2,15 +2,17 @@
 
 目前排程範本會在每週日與每週三 10:30 執行 `weekly_businessweekly_update.sh`。
 
-## Discord webhook
+## 通知設定
 
-`weekly_businessweekly_update.sh` 會從本機 `.env` 讀取 `DISCORD_WEBHOOK_URL` 並推播到 Discord。
+`weekly_businessweekly_update.sh` 會從本機 `.env` 讀取通知設定，並推播到 Discord 與 Telegram。
 
 ```sh
 export DISCORD_WEBHOOK_URL="你的 Discord webhook URL"
+export TELEGRAM_BOT_TOKEN="你的 Telegram bot token"
+export TELEGRAM_CHAT_ID="你的 Telegram chat id"
 ```
 
-如果保持空白，程式仍會爬取、更新 JSON、產生差異檔，只是不會送 Discord 訊息。
+如果某個通知通道的設定保持空白，程式仍會爬取、更新 JSON、產生差異檔，只是不會送該通道的訊息。
 
 ## GitHub Actions
 
@@ -20,7 +22,10 @@ export DISCORD_WEBHOOK_URL="你的 Discord webhook URL"
 
 1. 把專案推到 GitHub repository。
 2. 到 repository 的 Settings -> Secrets and variables -> Actions。
-3. 新增 Repository secret，名稱設為 `DISCORD_WEBHOOK_URL`，值貼上 Discord webhook。
+3. 新增 Repository secrets：
+   - `DISCORD_WEBHOOK_URL`: Discord webhook。
+   - `TELEGRAM_BOT_TOKEN`: Telegram bot token。
+   - `TELEGRAM_CHAT_ID`: Telegram chat id。
 4. 到 Actions 頁面手動執行 `Business Weekly Concert Notifications` 測試一次。
 
 GitHub Actions 不需要這台 Mac 開機；時間到會由 GitHub 的雲端 runner 執行。

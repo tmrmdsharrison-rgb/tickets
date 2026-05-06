@@ -41,6 +41,7 @@ WATCH_FIELDS = (
     "ticket_platform_links",
 )
 DISCORD_MESSAGE_LIMIT = 1900
+TELEGRAM_MESSAGE_LIMIT = 4000
 NOTIFICATION_WINDOW_DAYS = 14
 GENERAL_SALE_KEYWORDS = ("正式", "全面", "一般", "開賣", "啟售", "販售")
 NON_GENERAL_SALE_KEYWORDS = (
@@ -279,6 +280,31 @@ def send_discord_messages(
         response = requests.post(webhook_url, json={"content": message}, timeout=30)
         response.raise_for_status()
         logger.info("Sent Discord notification %s/%s", index, len(messages))
+
+
+def send_telegram_messages(
+    bot_token: str, chat_id: str, messages: list[str], logger: logging.Logger
+) -> None:
+    if not messages:
+        logger.info("No Telegram messages to notify")
+        return
+    if not bot_token or not chat_id:
+        logger.info("Telegram config is blank; skipped sending %s message(s)", len(messages))
+        return
+
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    for index, message in enumerate(messages, start=1):
+        response = requests.post(
+            url,
+            json={
+                "chat_id": chat_id,
+                "text": message[:TELEGRAM_MESSAGE_LIMIT],
+                "disable_web_page_preview": True,
+            },
+            timeout=30,
+        )
+        response.raise_for_status()
+        logger.info("Sent Telegram notification %s/%s", index, len(messages))
 
 
 def parse_sale_dates(text: str, reference_date: date) -> list[date]:
@@ -634,6 +660,16 @@ def main() -> None:
         help="Discord webhook URL. Leave blank to skip sending and only write output files.",
     )
     parser.add_argument(
+        "--telegram-bot-token",
+        default=os.environ.get("TELEGRAM_BOT_TOKEN", ""),
+        help="Telegram bot token. Leave blank to skip Telegram notifications.",
+    )
+    parser.add_argument(
+        "--telegram-chat-id",
+        default=os.environ.get("TELEGRAM_CHAT_ID", ""),
+        help="Telegram chat ID. Leave blank to skip Telegram notifications.",
+    )
+    parser.add_argument(
         "--html",
         default="",
         help="Optional local HTML file. If set, the script parses this file instead of fetching.",
@@ -691,6 +727,12 @@ def main() -> None:
         notification_items = filter_notification_items(rows, today)
         messages = build_upcoming_sale_messages(notification_items, args.url, today)
         send_discord_messages(args.discord_webhook, messages, logger)
+        send_telegram_messages(
+            args.telegram_bot_token,
+            args.telegram_chat_id,
+            messages,
+            logger,
+        )
     except Exception:
         logger.exception("Scrape failed")
         raise
