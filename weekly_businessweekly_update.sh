@@ -5,7 +5,9 @@ PROJECT_DIR="/Users/harrison/Desktop/tickets/ticket finding"
 ENV_FILE="$PROJECT_DIR/.env"
 
 if [[ -f "$ENV_FILE" ]]; then
+  set -a
   source "$ENV_FILE"
+  set +a
 fi
 
 cd "$PROJECT_DIR"
