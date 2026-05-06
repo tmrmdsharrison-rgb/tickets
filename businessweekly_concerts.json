@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.businessweekly.com.tw/style/blog/3019879#XG",
-  "scraped_at": "2026-05-04T03:16:06",
+  "scraped_at": "2026-05-06T09:48:38",
   "excluded_statuses": [
     "完售",
     "熱賣中"
@@ -9,38 +9,8 @@
     "完售",
     "熱賣中"
   ],
-  "count": 34,
+  "count": 29,
   "items": [
-    {
-      "performer": "東海",
-      "concert_date_from_table": "5/29-31",
-      "location_from_table": "新北工商展覽中心",
-      "sale_status": "加場5/2開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#東海",
-      "detail_title": "新北演唱會｜DONGHAE「ALIVE」1ST SOLO CONCERT TOUR in TAIPEI",
-      "concert_time": "2026/5/29（五）19:00（加場）\n2026/5/30（六）18:00\n2026/5/31（日）16:00",
-      "concert_location": "新北工商展覽中心",
-      "sale_time": "2026/4/25（六）12:00\n加場：2026/5/2（六）11:00",
-      "ticket_platform": "KKTIX （僅限網站售票）",
-      "ticket_platform_links": [
-        {
-          "name": "KKTIX",
-          "url": "https://daydreamerstudio.kktix.cc/events/kio6dr"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：",
-        "2026/5/29（五）19:00（加場）",
-        "2026/5/30（六）18:00",
-        "2026/5/31（日）16:00",
-        "演唱會地點： 新北工商展覽中心",
-        "售票時間：",
-        "2026/4/25（六）12:00",
-        "加場：2026/5/2（六）11:00",
-        "票價：NT$6280 / 5680 / 4880 / 2440（身障席）",
-        "售票平台： KKTIX （僅限網站售票）"
-      ]
-    },
     {
       "performer": "K-SPARK",
       "concert_date_from_table": "5/30",
@@ -120,28 +90,30 @@
       ]
     },
     {
-      "performer": "圭賢",
-      "concert_date_from_table": "6/27",
-      "location_from_table": "天母體育館",
-      "sale_status": "5/1開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#圭賢",
-      "detail_title": "台北粉絲見面會｜KYUHYUN 20th Anniversary Fanmeeting「Hotel 203」IN TAIPEI",
-      "concert_time": "2026/6/27（六）18:00",
-      "concert_location": "天母體育館",
-      "sale_time": "2026/5/1（五）13:00 全面啟售",
+      "performer": "五月天",
+      "concert_date_from_table": "7/3-5\n7/8\n7/10-12",
+      "location_from_table": "台北大巨蛋",
+      "sale_status": "5/23開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#五月天台北大巨蛋",
+      "detail_title": "台北演唱會｜五月天「#5525+2 回到那一天」25週年巡迴演唱會 台北站・重回大巨蛋版",
+      "concert_time": "2026/7/3（五）\n2026/7/4（六）\n2026/7/5（日）\n2026/7/8（三）\n2026/7/10（五）\n2026/7/11（六）\n2026/7/12（日）",
+      "concert_location": "台北大巨蛋",
+      "sale_time": "2026/5/23（六）",
       "ticket_platform": "拓元售票系統",
-      "ticket_platform_links": [
-        {
-          "name": "拓元售票系統",
-          "url": "https://tixcraft.com/activity/detail/26_kyuhyun"
-        }
-      ],
+      "ticket_platform_links": [],
       "raw_detail_items": [
-        "演唱會時間：2026/6/27（六）18:00",
-        "演唱會地點： 天母體育館",
-        "售票時間：2026/5/1（五）13:00 全面啟售",
-        "票價：NT$ 5680 / 4880 / 3880 / 身障席NT$ 2440（全場座席）",
-        "售票平台： 拓元售票系統"
+        "演唱會時間：",
+        "2026/7/3（五）",
+        "2026/7/4（六）",
+        "2026/7/5（日）",
+        "2026/7/8（三）",
+        "2026/7/10（五）",
+        "2026/7/11（六）",
+        "2026/7/12（日）",
+        "演唱會地點： 台北大巨蛋",
+        "售票時間：2026/5/23（六）",
+        "票價：尚未公布",
+        "售票平台：拓元售票系統"
       ]
     },
     {
@@ -165,23 +137,63 @@
       ]
     },
     {
+      "performer": "TK",
+      "concert_date_from_table": "7/4",
+      "location_from_table": "Zepp New Taipei",
+      "sale_status": "5/10開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#TK",
+      "detail_title": "新北演唱會｜TK from凜冽時雨「ASIA TOUR 2026 in TAIPEI」",
+      "concert_time": "2026/7/4（六）18:00",
+      "concert_location": "Zepp New Taipei",
+      "sale_time": "2026/5/10（日）11:00",
+      "ticket_platform": "遠大售票",
+      "ticket_platform_links": [
+        {
+          "name": "遠大售票",
+          "url": "https://ticketplus.com.tw/activity/721ad470d2693a922d4975b3003c1cda"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：2026/7/4（六）18:00",
+        "演唱會地點：Zepp New Taipei",
+        "售票時間：2026/5/10（日）11:00",
+        "票價：",
+        "1F A區NT$2800",
+        "1F B區NT$2500",
+        "2F 座位區NT$2800",
+        "身障區NT$1250",
+        "售票平台： 遠大售票"
+      ]
+    },
+    {
       "performer": "NMIXX",
       "concert_date_from_table": "7/11",
       "location_from_table": "高雄巨蛋",
-      "sale_status": "尚未公告",
+      "sale_status": "5/14全面啟售",
       "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#NMIXX",
       "detail_title": "高雄演唱會｜NMIXX 1ST WORLD TOUR <EPISODE 1: ZERO FRONTIER>",
-      "concert_time": "2026/7/11（六）",
+      "concert_time": "2026/7/11（六）18:00",
       "concert_location": "高雄巨蛋",
-      "sale_time": "待公告",
-      "ticket_platform": "待公告",
-      "ticket_platform_links": [],
+      "sale_time": "星展萬事達卡卡友預售：2026/5/12（二）11:00-23:59\nLive Nation Taiwan會員預售：2026/5/13（三）11:00-23:59\n正式開賣：2026/5/14（四）11:00",
+      "ticket_platform": "拓元售票系統",
+      "ticket_platform_links": [
+        {
+          "name": "拓元售票系統",
+          "url": "https://tixcraft.com/activity/detail/26_nmixx"
+        }
+      ],
       "raw_detail_items": [
-        "演唱會時間：2026/7/11（六）",
+        "演唱會時間：2026/7/11（六）18:00",
         "演唱會地點： 高雄巨蛋",
-        "售票時間：待公告",
-        "票價：待公告",
-        "售票平台：待公告"
+        "售票時間：",
+        "星展萬事達卡卡友預售：2026/5/12（二）11:00-23:59",
+        "Live Nation Taiwan會員預售：2026/5/13（三）11:00-23:59",
+        "正式開賣：2026/5/14（四）11:00",
+        "票價：",
+        "VIP套票NT$6880",
+        "一般票NT$5880 / 4880 / 4380 / 3880 / 2880",
+        "輪椅區身障優惠票NT$2440 / 非輪椅區身障優惠票NT$1440",
+        "售票平台： 拓元售票系統"
       ]
     },
     {
@@ -260,70 +272,15 @@
       ]
     },
     {
-      "performer": "同根生",
-      "concert_date_from_table": "7/30",
-      "location_from_table": "Legacy Taipei",
-      "sale_status": "4/29開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#同根生",
-      "detail_title": "台北演唱會｜A_Root同根生「神遊」Loading…十週年旗艦專場",
-      "concert_time": "2026/7/30（四）20:00",
-      "concert_location": "Legacy Taipei",
-      "sale_time": "2026/4/29（三）12:00 正式開賣",
-      "ticket_platform": "拓元售票系統",
-      "ticket_platform_links": [
-        {
-          "name": "拓元售票系統",
-          "url": "https://tixcraft.com/activity/detail/26_aroot"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/7/30（四）20:00",
-        "演唱會地點： Legacy Taipei",
-        "售票時間：2026/4/29（三）12:00 正式開賣",
-        "票價：",
-        "VIP套票：NT$2400",
-        "一般站區票：NT$1400",
-        "身障優惠票：NT$700",
-        "售票平台： 拓元售票系統"
-      ]
-    },
-    {
-      "performer": "許富凱",
-      "concert_date_from_table": "8/8",
-      "location_from_table": "台北小巨蛋",
-      "sale_status": "4/29全面開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#許富凱",
-      "detail_title": "台北演唱會｜許富凱「一五一拾」台北小巨蛋演唱會",
-      "concert_time": "2025/8/8（六）15:10",
-      "concert_location": "台北小巨蛋",
-      "sale_time": "台新卡友優先購：2026/4/28（二）10:00\n正式全面啟售：2026/4/29（三）12:00",
-      "ticket_platform": "寬宏售票系統",
-      "ticket_platform_links": [
-        {
-          "name": "寬宏售票系統",
-          "url": "https://kham.tw/en04ju2ay"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2025/8/8（六）15:10",
-        "演唱會地點：台北小巨蛋",
-        "售票時間：",
-        "台新卡友優先購：2026/4/28（二）10:00",
-        "正式全面啟售：2026/4/29（三）12:00",
-        "票價：NT$ 4680 / 4280 / 3880 / 3480 / 3080 / 2680 / 1880 / 800",
-        "售票平台： 寬宏售票系統"
-      ]
-    },
-    {
       "performer": "natori",
-      "concert_date_from_table": "8/8",
+      "concert_date_from_table": "8/8-9",
       "location_from_table": "台北流行音樂中心",
-      "sale_status": "4/20登記抽選\n5/6全面啟售",
+      "sale_status": "5/18加場登記抽選",
       "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#natori",
       "detail_title": "台北演唱會｜natori「Koshin (March)」ONE-MAN LIVE TOUR in Taipei",
-      "concert_time": "2026/8/8（六）18:00",
-      "concert_location": "台北流行音樂中心",
-      "sale_time": "登記抽選：2026/4/20（一）13:00～2026/4/22（三）13:00\n2026/4/24（五）12:00\n一般販售：2026/5/6（三）12:00（視抽選販售情況而定）",
+      "concert_time": "2026/8/8（六）18:00\n2026/8/9（日）16:00（加場）",
+      "concert_location": "台北流行音樂中心表演廳",
+      "sale_time": "追加場次登記抽選：2026/5/18（一）13:00至2026/5/20（三）13:00\n追加場次結果公布：2026/5/22（五）12:00\n追加場次結帳期間：2026/5/22（五）中選後至2026/5/24（日）13:00\n復活抽選：2026/5/25（一）12:00起陸續通知\n一般販售：2026/6/3（三）12:00",
       "ticket_platform": "Ticket Plus遠大售票",
       "ticket_platform_links": [
         {
@@ -332,12 +289,16 @@
         }
       ],
       "raw_detail_items": [
-        "演唱會時間：2026/8/8（六）18:00",
-        "演唱會地點： 台北流行音樂中心",
+        "演唱會時間：",
+        "2026/8/8（六）18:00",
+        "2026/8/9（日）16:00（加場）",
+        "演唱會地點： 台北流行音樂中心表演廳",
         "售票時間：",
-        "登記抽選：2026/4/20（一）13:00～2026/4/22（三）13:00",
-        "結果公布：2026/4/24（五）12:00",
-        "一般販售：2026/5/6（三）12:00（視抽選販售情況而定）",
+        "追加場次登記抽選：2026/5/18（一）13:00至2026/5/20（三）13:00",
+        "追加場次結果公布：2026/5/22（五）12:00",
+        "追加場次結帳期間：2026/5/22（五）中選後至2026/5/24（日）13:00",
+        "復活抽選：2026/5/25（一）12:00起陸續通知",
+        "一般販售：2026/6/3（三）12:00",
         "票價：1F站席NT$4200 / 2F前座席NT$3600 / 2F後座席NT$3200 / 3F座席NT$2800 / 1F輪椅身障席NT$2100 / 2F身障席NT$1600",
         "售票平台： Ticket Plus遠大售票"
       ]
@@ -376,20 +337,31 @@
       "performer": "aespa",
       "concert_date_from_table": "8/11",
       "location_from_table": "台北大巨蛋",
-      "sale_status": "待公布",
+      "sale_status": "5/17全面啟售",
       "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#aespa",
       "detail_title": "台北演唱會｜aespa「SYNK : COMPLæXITY」2026 LIVE TOUR IN TAIPEI",
-      "concert_time": "2026/8/11（二）",
+      "concert_time": "2026/8/11（二）18:30",
       "concert_location": "台北大巨蛋",
-      "sale_time": "待公布",
-      "ticket_platform": "待公布",
-      "ticket_platform_links": [],
+      "sale_time": "Weverse優先購票登記：2026/5/4（一）11:00-2026/5/6（三）11:00\nWeverse優先購票：2026/5/16（六）11:00-23:59\n三星星粉保留席次專區：2026/5/17（日）11:00-2026/5/19（二）11:00\n正式開賣：2026/5/17（日）11:00",
+      "ticket_platform": "拓元售票系統",
+      "ticket_platform_links": [
+        {
+          "name": "拓元售票系統",
+          "url": "https://tixcraft.com/activity/detail/26_aespa"
+        }
+      ],
       "raw_detail_items": [
-        "演唱會時間：2026/8/11（二）",
+        "演唱會時間：2026/8/11（二）18:30",
         "演唱會地點： 台北大巨蛋",
-        "售票時間：待公布",
-        "票價：待公布",
-        "售票平台：待公布"
+        "售票時間：",
+        "Weverse優先購票登記：2026/5/4（一）11:00-2026/5/6（三）11:00",
+        "Weverse優先購票：2026/5/16（六）11:00-23:59",
+        "三星星粉保留席次專區：2026/5/17（日）11:00-2026/5/19（二）11:00",
+        "正式開賣：2026/5/17（日）11:00",
+        "票價：",
+        "VIP套票NT$7880",
+        "一般票NT$6880 / 5880 / 4880 / 3880 / 2880 / 3440（身障優惠票）/ 2940（身障優惠票）/ 2440（身障優惠票）/ 1940（身障優惠票）",
+        "售票平台： 拓元售票系統"
       ]
     },
     {
@@ -455,7 +427,7 @@
       "performer": "中島健人",
       "concert_date_from_table": "8/29-30",
       "location_from_table": "Zepp New Taipei",
-      "sale_status": "4/27-29登記抽選",
+      "sale_status": "登記抽選中",
       "detail_url": "",
       "detail_title": "新北演唱會｜中島健人「IDOL1ST KENTY」ASIA TOUR 2026 in TAIPEI",
       "concert_time": "2026/8/29（六）18:00\n2026/8/30（日）15:00",
@@ -480,31 +452,6 @@
         "VIP PASS加購登記抽選：2026/5/25（一）13:00 ～2026/5/26（二）13:00",
         "票價：1F站席 NT$3200 / 2F座席A區 NT$3200 / 2F座席B區 NT$3000 / 2F站席 NT$2800 / 身心障礙優惠席 NT$1600VIP PASS加購價 NT$2400（限持有有效門票者登記）",
         "售票平台： Ticket Plus遠大售票系統 （實名抽選制）"
-      ]
-    },
-    {
-      "performer": "潘越雲",
-      "concert_date_from_table": "9/12",
-      "location_from_table": "台北流行音樂中心表演廳",
-      "sale_status": "4/29開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#潘越雲",
-      "detail_title": "台北演唱會｜潘越雲「坐看雲起時」演唱會",
-      "concert_time": "2026/9/12（六）19:30",
-      "concert_location": "台北流行音樂中心表演廳",
-      "sale_time": "2026/4/29（三）11:00 全面開賣",
-      "ticket_platform": "拓元售票系統",
-      "ticket_platform_links": [
-        {
-          "name": "拓元售票系統",
-          "url": "https://tixcraft.com/activity/detail/26_michelle"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/9/12（六）19:30",
-        "演唱會地點： 台北流行音樂中心表演廳",
-        "售票時間：2026/4/29（三）11:00 全面開賣",
-        "票價：NT$ 4270 / 3770 / 3270 / 2770 / 2270 / 1670",
-        "售票平台： 拓元售票系統"
       ]
     },
     {
@@ -589,37 +536,6 @@
       ]
     },
     {
-      "performer": "XG",
-      "concert_date_from_table": "10/17",
-      "location_from_table": "台北小巨蛋",
-      "sale_status": "4/30全面開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#XG",
-      "detail_title": "台北演唱會｜XG「THE CORE」WORLD TOUR IN TAIPEI",
-      "concert_time": "2026/10/17（六）19:30",
-      "concert_location": "台北小巨蛋",
-      "sale_time": "ALPHAZ年費PREMIUM/STANDARD月費會員預購：2026/4/28（二）10:00-23:59\n所有ALPHAZ會員（含免費會員）預購：2026/4/29（三）10:00-23:59\n全面啟售：2026/4/30（四）12:00",
-      "ticket_platform": "寬宏售票",
-      "ticket_platform_links": [
-        {
-          "name": "寬宏售票",
-          "url": "https://kham.tw/en04tv2Yn"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/10/17（六）19:30",
-        "演唱會地點： 台北小巨蛋",
-        "售票時間：",
-        "ALPHAZ年費PREMIUM/STANDARD月費會員預購：2026/4/28（二）10:00-23:59",
-        "所有ALPHAZ會員（含免費會員）預購：2026/4/29（三）10:00-23:59",
-        "全面啟售：2026/4/30（四）12:00",
-        "票價：",
-        "VIP 1套票：NT$ 7990（含7980門票）",
-        "VIP 2套票：NT$ 6990（含6980門票）",
-        "一般票：NT$ 5580 / 4580 / 3580 / 2980 / 2580 / 800",
-        "售票平台： 寬宏售票"
-      ]
-    },
-    {
       "performer": "Novelbright",
       "concert_date_from_table": "10/24",
       "location_from_table": "新北市工商展覽中心",
@@ -637,6 +553,26 @@
         "售票時間：2026/5/8（五）12:00 開賣",
         "票價：待公布",
         "售票平台：年代售票系統、各大便利商店"
+      ]
+    },
+    {
+      "performer": "TWS",
+      "concert_date_from_table": "10/24",
+      "location_from_table": "高雄巨蛋",
+      "sale_status": "待公布",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#TWS高雄",
+      "detail_title": "高雄演唱會｜TWS「24/7:FOR:YOU」2026年巡演高雄站",
+      "concert_time": "2026/10/24（六）",
+      "concert_location": "高雄巨蛋",
+      "sale_time": "待公布",
+      "ticket_platform": "待公布",
+      "ticket_platform_links": [],
+      "raw_detail_items": [
+        "演唱會時間：2026/10/24（六）",
+        "演唱會地點： 高雄巨蛋",
+        "售票時間：待公布",
+        "票價：待公布",
+        "售票平台：待公布"
       ]
     },
     {
@@ -705,31 +641,6 @@
       ]
     },
     {
-      "performer": "Pami",
-      "concert_date_from_table": "11/7",
-      "location_from_table": "The Wall",
-      "sale_status": "5/2開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#Pami",
-      "detail_title": "台北演唱會｜Pami in Taipei 2026",
-      "concert_time": "2026/11/7（六）20:00",
-      "concert_location": "The Wall Livehouse",
-      "sale_time": "2026/5/2（六）13:00",
-      "ticket_platform": "全台7-ELEVEN ibon機台、 ibon售票網",
-      "ticket_platform_links": [
-        {
-          "name": "ibon售票網",
-          "url": "https://ticket.ibon.com.tw/ActivityInfo/Details/39575"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/11/7（六）20:00",
-        "演唱會地點： The Wall Livehouse",
-        "售票時間：2026/5/2（六）13:00",
-        "開賣票價：預售單人NT$1600 / 限量雙人NT$3000 / 現場NT$1800 / 愛心票NT$800（全區站席）",
-        "售票平台：全台7-ELEVEN ibon機台、 ibon售票網"
-      ]
-    },
-    {
       "performer": "LE SSERAFIM",
       "concert_date_from_table": "11/14-15",
       "location_from_table": "台北（場地待公布）",
@@ -792,39 +703,6 @@
         "售票時間：待公告",
         "票價：待公告",
         "售票平台：待公告"
-      ]
-    },
-    {
-      "performer": "JOJI",
-      "concert_date_from_table": "11/27",
-      "location_from_table": "高雄巨蛋",
-      "sale_status": "4/30開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#JOJI",
-      "detail_title": "高雄搖滾演唱會｜JOJI「SOLARIS」Tour",
-      "concert_time": "2026/11/27（五）20:00",
-      "concert_location": "高雄巨蛋",
-      "sale_time": "JOJI官方/Spotify預售：2026/4/27（一）12:00-23:59\n星展萬事達卡卡友預售：2026/4/28（二）10:00～4/29（三）10:00\nLive Nation Taiwan會員預售：2026/4/29（三）12:00-23:59\n正式全面開賣：2026/4/30（四）12:00\n台灣大哥大/MyVideo會員專區：2026/4/30（四）12:00-5/3（日）12:00",
-      "ticket_platform": "拓元售票系統",
-      "ticket_platform_links": [
-        {
-          "name": "拓元售票系統",
-          "url": "https://tixcraft.com/activity/JOJI"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/11/27（五）20:00",
-        "演唱會地點： 高雄巨蛋",
-        "售票時間：",
-        "JOJI官方/Spotify預售：2026/4/27（一）12:00-23:59",
-        "星展萬事達卡卡友預售：2026/4/28（二）10:00～4/29（三）10:00",
-        "Live Nation Taiwan會員預售：2026/4/29（三）12:00-23:59",
-        "正式全面開賣：2026/4/30（四）12:00",
-        "台灣大哥大/MyVideo會員專區：2026/4/30（四）12:00-5/3（日）12:00",
-        "票價：2900起（實際票價以結帳頁面為準）",
-        "VIP套票：",
-        "JOJI VIP+：NT$12380（含GA門票、獨家放映、親簽海報、限定週邊、紀念卡、掛牌、首批優先入場、優先購週邊）",
-        "JOJI VIP：NT$7980（含GA門票、限定週邊、紀念卡、掛牌、第二批優先入場、優先購週邊）",
-        "售票平台： 拓元售票系統"
       ]
     },
     {
