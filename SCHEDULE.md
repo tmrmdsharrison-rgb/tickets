@@ -1,6 +1,6 @@
 # 每週排程設定
 
-目前排程範本會在每週日與每週三 10:30 執行 `weekly_businessweekly_update.sh`。
+目前排程範本會在每週日與每週三 10:40 執行 `weekly_businessweekly_update.sh`。
 
 ## 通知設定
 
@@ -16,7 +16,7 @@ export TELEGRAM_CHAT_ID="你的 Telegram chat id"
 
 ## GitHub Actions
 
-`.github/workflows/businessweekly-concerts.yml` 會在每週日與每週三 10:30 台灣時間執行。
+`.github/workflows/businessweekly-concerts.yml` 會在每週日與每週三 10:40 台灣時間執行。
 
 設定方式：
 
