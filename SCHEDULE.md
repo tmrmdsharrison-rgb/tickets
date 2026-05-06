@@ -1,6 +1,6 @@
 # 每週排程設定
 
-目前排程範本會在每週日與每週三 09:00 執行 `weekly_businessweekly_update.sh`。
+目前排程範本會在每週日與每週三 10:30 執行 `weekly_businessweekly_update.sh`。
 
 ## Discord webhook
 
@@ -14,7 +14,7 @@ export DISCORD_WEBHOOK_URL="你的 Discord webhook URL"
 
 ## GitHub Actions
 
-`.github/workflows/businessweekly-concerts.yml` 會在每週日與每週三 09:00 台灣時間執行。
+`.github/workflows/businessweekly-concerts.yml` 會在每週日與每週三 10:30 台灣時間執行。
 
 設定方式：
 
