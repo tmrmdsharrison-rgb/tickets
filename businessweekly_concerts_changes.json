@@ -1,13 +1,241 @@
 {
   "source_url": "https://www.businessweekly.com.tw/style/blog/3019879#XG",
-  "scraped_at": "2026-05-06T05:44:27",
-  "previous_scraped_at": "2026-05-06T02:34:18",
+  "scraped_at": "2026-05-10T05:51:01",
+  "previous_scraped_at": "2026-05-06T05:44:27",
   "summary": {
-    "added": 0,
-    "updated": 0,
-    "removed": 0
+    "added": 5,
+    "updated": 1,
+    "removed": 1
   },
-  "added": [],
-  "updated": [],
-  "removed": []
+  "added": [
+    {
+      "performer": "FTISLAND Legacy TERA",
+      "concert_date_from_table": "6/20",
+      "location_from_table": "Legacy TERA",
+      "sale_status": "5/16開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#FTISLAND",
+      "detail_title": "台北演唱會｜FTISLAND「FTSODE」in TAIPEI",
+      "concert_time": "2026/1/24（六）18:00\n2026/1/25（日）17:00",
+      "concert_location": "台大綜合體育館一樓",
+      "sale_time": "首場開賣：2025/12/20（六）11:00\n加場開賣：2025/12/30（二）12:00\n身障表單預購：\n1/24場次：2025/12/22（一）11:00起\n1/25場次：2025/12/30（二）14:00起",
+      "ticket_platform": "ibon售票系統",
+      "ticket_platform_links": [
+        {
+          "name": "ibon售票系統",
+          "url": "https://ticket.ibon.com.tw/ActivityInfo/Details/39334"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：",
+        "2026/1/24（六）18:00",
+        "2026/1/25（日）17:00",
+        "演唱會地點： 台大綜合體育館一樓",
+        "售票時間：",
+        "首場開賣：2025/12/20（六）11:00",
+        "加場開賣：2025/12/30（二）12:00",
+        "身障表單預購：",
+        "1/24場次：2025/12/22（一）11:00起",
+        "1/25場次：2025/12/30（二）14:00起",
+        "票價：NT$6580 / 5580 / 4880",
+        "NT$6580：演出門票＋TWD 80福利（含SOUNDCHECK、台北場限定小卡一套、團體合照抽獎、親簽海報及拍立得抽獎資格）",
+        "NT$5580：演出門票＋TWD 30福利（含台北場限定小卡一套、團體合照抽獎、親簽海報及拍立得抽獎資格）",
+        "NT$4880：演出門票＋TWD 10福利（含台北場限定小卡一套）",
+        "售票平台： ibon售票系統"
+      ]
+    },
+    {
+      "performer": "LUCY",
+      "concert_date_from_table": "6/20",
+      "location_from_table": "台大綜合體育館1F",
+      "sale_status": "5/9開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#LUCY",
+      "detail_title": "台北演唱會｜LUCY「ISLAND」9TH CONCERT IN TAIPEI",
+      "concert_time": "2026/6/20（六）18:00",
+      "concert_location": "台大綜合體育館1F",
+      "sale_time": "2026/5/9（六）13:00開賣",
+      "ticket_platform": "全台7-ELEVEN ibon機台、 ibon售票網站",
+      "ticket_platform_links": [
+        {
+          "name": "ibon售票網站",
+          "url": "https://ticket.ibon.com.tw/ActivityInfo/Details/39605"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：2026/6/20（六）18:00",
+        "演唱會地點： 台大綜合體育館1F",
+        "售票時間：2026/5/9（六）13:00開賣",
+        "票價（全場皆為對號入座）：",
+        "VIP區NT$4880",
+        "A區NT$4280",
+        "B區NT$3680",
+        "身障席NT$2440",
+        "售票平台：全台7-ELEVEN ibon機台、 ibon售票網站"
+      ]
+    },
+    {
+      "performer": "周蕙",
+      "concert_date_from_table": "11/11",
+      "location_from_table": "衛武營國家藝術文化中心表演廳",
+      "sale_status": "5/22全面啟售",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#周蕙",
+      "detail_title": "高雄演唱會｜周蕙「Chill夜」爵士之夜",
+      "concert_time": "2026/11/11（三）20:00",
+      "concert_location": "衛武營國家藝術文化中心表演廳",
+      "sale_time": "鐵鳥套票搶先購：2026/5/14（四）12:00～2026/5/15（五）12:00（任選下半年3檔節目各1張）\n衛武營會員優先購票：2026/5/15（五）12:00\n全面啟售：2026/5/22（五）12:00",
+      "ticket_platform": "OPENTIX兩廳院文化生活",
+      "ticket_platform_links": [
+        {
+          "name": "OPENTIX兩廳院文化生活",
+          "url": "https://www.opentix.life/topic/1334412608580890625?srsltid=AfmBOorZdvGytB42PZhZcT506KW5TzCVA4NxxZau9sly5FM9ixkWfcJm"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：2026/11/11（三）20:00",
+        "演唱會地點： 衛武營國家藝術文化中心表演廳",
+        "售票時間：",
+        "鐵鳥套票搶先購：2026/5/14（四）12:00～2026/5/15（五）12:00（任選下半年3檔節目各1張）",
+        "衛武營會員優先購票：2026/5/15（五）12:00",
+        "全面啟售：2026/5/22（五）12:00",
+        "票價：NT$800 / 500 / 300",
+        "售票平台： OPENTIX兩廳院文化生活"
+      ]
+    },
+    {
+      "performer": "姜育恆",
+      "concert_date_from_table": "6/27",
+      "location_from_table": "台北流行音樂中心表演廳",
+      "sale_status": "5/10開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#姜育恆",
+      "detail_title": "台北演唱會｜姜育恆「姜育恆的盛宴」Jonnie’s GALA",
+      "concert_time": "2026/6/27（六）19:30",
+      "concert_location": "台北流行音樂中心表演廳",
+      "sale_time": "2026/5/10（日）12:00開賣",
+      "ticket_platform": "KKTIX 、全台全家便利商店FAMIPORT機台",
+      "ticket_platform_links": [
+        {
+          "name": "KKTIX",
+          "url": "https://wenxing.kktix.cc/events/415368ee"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：2026/6/27（六）19:30",
+        "演唱會地點： 台北流行音樂中心表演廳",
+        "售票時間：2026/5/10（日）12:00開賣",
+        "票價：NT$20000 / 18000 / 12000 / 10000 / 8000 / 4200 / 3200 / 2200 / 3600（1樓無障礙席）/ 3000（2樓無障礙席）",
+        "售票平台： KKTIX 、全台全家便利商店FAMIPORT機台"
+      ]
+    },
+    {
+      "performer": "邱鋒澤",
+      "concert_date_from_table": "8/22",
+      "location_from_table": "台北流行音樂中心",
+      "sale_status": "5/20全面啟售",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#邱鋒澤台北",
+      "detail_title": "台北演唱會｜邱鋒澤「Bend The Lines Concert」",
+      "concert_time": "2026/8/22（六）19:30",
+      "concert_location": "台北流行音樂中心",
+      "sale_time": "會員優先購票：2026/5/13（三）12:00至2026/5/15（五）18:00（須於2026/5/8中午12:00前完成原音娛樂官網會員註冊）\n正式全面開賣：2026/5/20（三）12:00",
+      "ticket_platform": "寬宏售票 、萊爾富、OK便利商店",
+      "ticket_platform_links": [
+        {
+          "name": "寬宏售票",
+          "url": "https://kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19R2KJI"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：2026/8/22（六）19:30",
+        "演唱會地點： 台北流行音樂中心",
+        "售票時間：",
+        "會員優先購票：2026/5/13（三）12:00至2026/5/15（五）18:00（須於2026/5/8中午12:00前完成原音娛樂官網會員註冊）",
+        "正式全面開賣：2026/5/20（三）12:00",
+        "票價：NT$4280 / 3880 / 3480 / 2880 / 2480 / 1880",
+        "售票平台： 寬宏售票 、萊爾富、OK便利商店"
+      ]
+    }
+  ],
+  "updated": [
+    {
+      "key": "K-SPARK | https://www.businessweekly.com.tw/style/blog/3019879#K-SPARK | 5/30 | 高雄國家體育場",
+      "before": {
+        "performer": "K-SPARK",
+        "concert_date_from_table": "5/30",
+        "location_from_table": "高雄國家體育場",
+        "sale_status": "5/11開賣",
+        "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#K-SPARK",
+        "detail_title": "高雄演唱會｜K-SPARK in KAOHSIUNG 2026",
+        "concert_time": "2026/5/30（六）19:30",
+        "concert_location": "高雄國家體育場",
+        "sale_time": "2026/5/11（一）12:00 開賣",
+        "ticket_platform": "KKTIX售票系統",
+        "ticket_platform_links": [],
+        "raw_detail_items": [
+          "演唱會時間：2026/5/30（六）19:30",
+          "演唱會地點： 高雄國家體育場",
+          "售票時間：2026/5/11（一）12:00 開賣",
+          "票價：NT$8880 / 7880 / 6880 / 5880 / 4880 / 3880 / 2880",
+          "售票平台：KKTIX售票系統"
+        ]
+      },
+      "after": {
+        "performer": "K-SPARK",
+        "concert_date_from_table": "5/30",
+        "location_from_table": "高雄國家體育場",
+        "sale_status": "5/11開賣",
+        "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#K-SPARK",
+        "detail_title": "高雄演唱會｜K-SPARK in KAOHSIUNG 2026",
+        "concert_time": "2026/5/30（六）19:30",
+        "concert_location": "高雄國家體育場",
+        "sale_time": "2026/5/11（一）12:00 開賣",
+        "ticket_platform": "KKTIX售票系統",
+        "ticket_platform_links": [
+          {
+            "name": "KKTIX售票系統",
+            "url": "https://kwan.kktix.cc/events/754b7611"
+          }
+        ],
+        "raw_detail_items": [
+          "演唱會時間：2026/5/30（六）19:30",
+          "演唱會地點： 高雄國家體育場",
+          "售票時間：2026/5/11（一）12:00 開賣",
+          "票價：NT$8880 / 7880 / 6880 / 5880 / 4880 / 3880 / 2880",
+          "售票平台： KKTIX售票系統"
+        ]
+      },
+      "changes": {
+        "ticket_platform_links": {
+          "before": [],
+          "after": [
+            {
+              "name": "KKTIX售票系統",
+              "url": "https://kwan.kktix.cc/events/754b7611"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "removed": [
+    {
+      "performer": "AAA",
+      "concert_date_from_table": "12/5-6",
+      "location_from_table": "高雄國家體育場",
+      "sale_status": "5/31開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#AAA",
+      "detail_title": "高雄頒獎典禮｜AAA 2026 in Kaohsiung",
+      "concert_time": "2026/12/5（六）至2026/12/6（日）",
+      "concert_location": "高雄國家體育場（世運主場館）",
+      "sale_time": "AAA優先購：2026/5/31（日）11:00-13:00\nAAA早鳥票：2026/5/31（日）16:00-23:59",
+      "ticket_platform": "拓元售票系統",
+      "ticket_platform_links": [],
+      "raw_detail_items": [
+        "演唱會時間：2026/12/5（六）至2026/12/6（日）",
+        "演唱會地點： 高雄國家體育場（世運主場館）",
+        "售票時間：",
+        "AAA優先購：2026/5/31（日）11:00-13:00",
+        "AAA早鳥票：2026/5/31（日）16:00-23:59",
+        "票價：待公告",
+        "售票平台：拓元售票系統"
+      ]
+    }
+  ]
 }
