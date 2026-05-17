@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.businessweekly.com.tw/style/blog/3019879#XG",
-  "scraped_at": "2026-05-13T06:04:09",
+  "scraped_at": "2026-05-17T06:03:03",
   "excluded_statuses": [
     "完售",
     "熱賣中"
@@ -9,7 +9,7 @@
     "完售",
     "熱賣中"
   ],
-  "count": 25,
+  "count": 34,
   "items": [
     {
       "performer": "K-SPARK",
@@ -100,6 +100,72 @@
       ]
     },
     {
+      "performer": "圭賢",
+      "concert_date_from_table": "6/27-28",
+      "location_from_table": "天母體育館",
+      "sale_status": "加場5/15開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#圭賢",
+      "detail_title": "台北粉絲見面會｜KYUHYUN 20th Anniversary Fanmeeting「Hotel 203」IN TAIPEI",
+      "concert_time": "2026/6/27（六）18:00\n2026/6/28（日）17:00（加場）",
+      "concert_location": "天母體育館",
+      "sale_time": "全面啟售：2026/5/1（五）13:00\n加場全面啟售：2026/5/15（五）20:00",
+      "ticket_platform": "拓元售票系統",
+      "ticket_platform_links": [
+        {
+          "name": "拓元售票系統",
+          "url": "https://tixcraft.com/activity/detail/26_kyuhyun"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：",
+        "2026/6/27（六）18:00",
+        "2026/6/28（日）17:00（加場）",
+        "演唱會地點： 天母體育館",
+        "售票時間：",
+        "全面啟售：2026/5/1（五）13:00",
+        "加場全面啟售：2026/5/15（五）20:00",
+        "票價：NT$ 5680 / 4880 / 3880 / 身障席NT$ 2440（全場座席）",
+        "售票平台： 拓元售票系統"
+      ]
+    },
+    {
+      "performer": "高雄啤酒音樂節",
+      "concert_date_from_table": "7/3-5",
+      "location_from_table": "高雄夢時代前廣場",
+      "sale_status": "5/14全面啟售",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#高雄啤酒音樂節",
+      "detail_title": "高雄演唱會｜2026高雄啤酒音樂節",
+      "concert_time": "2026/7/3（五）\n2026/7/4（六）\n2026/7/5（日）",
+      "concert_location": "高雄夢時代前廣場",
+      "sale_time": "中信卡友全區優先購：5/13（三）12:00-23:59\n全面啟售：5/14（四）12:00",
+      "ticket_platform": "ibon售票系統 （網站、機台）\n演出陣容：\n7/3（五）：周子瑜TZUYU、FLARE U（崔立于、姜玗進）、玖壹壹、U:NUS、Kimberley陳芳語、Ariel蔡佩軒、李雅英、李珠珢。\n7/4（六）：Rain、BTOB、吳宗憲、馬念先、梁舒涵、瑋瑋黃挺瑋、李雅英、李珠珢。\n7/5（日）：RIIZE、YESUNG（藝聲）、安心亞、洪佩瑜、高爾宣OSN、Sabrina胡恂舞。",
+      "ticket_platform_links": [
+        {
+          "name": "ibon售票系統",
+          "url": "https://ticket.ibon.com.tw/ActivityInfo/Details/39590"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：",
+        "2026/7/3（五）",
+        "2026/7/4（六）",
+        "2026/7/5（日）",
+        "演唱會地點： 高雄夢時代前廣場",
+        "售票時間：",
+        "中信卡友全區優先購：5/13（三）12:00-23:59",
+        "全面啟售：5/14（四）12:00",
+        "票價：",
+        "預售票：NT$3999 / 2999 / 1999 / 1499 / 999",
+        "現場票：NT$4499 / 3499 / 2499 / 1999 / 1499",
+        "身障票及愛心票：NT$749",
+        "售票平台： ibon售票系統 （網站、機台）",
+        "演出陣容：",
+        "7/3（五）：周子瑜TZUYU、FLARE U（崔立于、姜玗進）、玖壹壹、U:NUS、Kimberley陳芳語、Ariel蔡佩軒、李雅英、李珠珢。",
+        "7/4（六）：Rain、BTOB、吳宗憲、馬念先、梁舒涵、瑋瑋黃挺瑋、李雅英、李珠珢。",
+        "7/5（日）：RIIZE、YESUNG（藝聲）、安心亞、洪佩瑜、高爾宣OSN、Sabrina胡恂舞。"
+      ]
+    },
+    {
       "performer": "五月天",
       "concert_date_from_table": "7/3-5\n7/8\n7/10-12",
       "location_from_table": "台北大巨蛋",
@@ -127,6 +193,35 @@
       ]
     },
     {
+      "performer": "陳珊妮",
+      "concert_date_from_table": "7/4",
+      "location_from_table": "Legacy TERA",
+      "sale_status": "5/16開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#陳珊妮",
+      "detail_title": "台北演唱會｜陳珊妮「生命是一襲華美的袍，長滿了蚤子。」",
+      "concert_time": "2026/7/4（六）20:00",
+      "concert_location": "Legacy TERA",
+      "sale_time": "2026/5/16（六）12:00",
+      "ticket_platform": "iNDIEVOX網站 、ibon機台",
+      "ticket_platform_links": [
+        {
+          "name": "iNDIEVOX網站",
+          "url": "https://www.indievox.com/activity/detail/26_iv04050ba"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：2026/7/4（六）20:00",
+        "演唱會地點： Legacy TERA",
+        "售票時間：2026/5/16（六）12:00",
+        "票價：",
+        "A區預售票NT$1980",
+        "B區預售票NT$1680",
+        "身障票NT$840",
+        "現場票NT$2200（預售完售即不開放）",
+        "售票平台： iNDIEVOX網站 、ibon機台"
+      ]
+    },
+    {
       "performer": "MAMAMOO",
       "concert_date_from_table": "7/4",
       "location_from_table": "高雄（場地待公告）",
@@ -148,12 +243,12 @@
     },
     {
       "performer": "NMIXX",
-      "concert_date_from_table": "7/11",
+      "concert_date_from_table": "7/11-12",
       "location_from_table": "高雄巨蛋",
       "sale_status": "5/14全面啟售",
       "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#NMIXX",
       "detail_title": "高雄演唱會｜NMIXX 1ST WORLD TOUR <EPISODE 1: ZERO FRONTIER>",
-      "concert_time": "2026/7/11（六）18:00",
+      "concert_time": "2026/7/11（六）18:00\n2026/7/12（日）18:00（加場）",
       "concert_location": "高雄巨蛋",
       "sale_time": "星展萬事達卡卡友預售：2026/5/12（二）11:00-23:59\nLive Nation Taiwan會員預售：2026/5/13（三）11:00-23:59\n正式開賣：2026/5/14（四）11:00",
       "ticket_platform": "拓元售票系統",
@@ -164,7 +259,9 @@
         }
       ],
       "raw_detail_items": [
-        "演唱會時間：2026/7/11（六）18:00",
+        "演唱會時間：",
+        "2026/7/11（六）18:00",
+        "2026/7/12（日）18:00（加場）",
         "演唱會地點： 高雄巨蛋",
         "售票時間：",
         "星展萬事達卡卡友預售：2026/5/12（二）11:00-23:59",
@@ -175,6 +272,35 @@
         "一般票NT$5880 / 4880 / 4380 / 3880 / 2880",
         "輪椅區身障優惠票NT$2440 / 非輪椅區身障優惠票NT$1440",
         "售票平台： 拓元售票系統"
+      ]
+    },
+    {
+      "performer": "在玹",
+      "concert_date_from_table": "7/14-15",
+      "location_from_table": "台北流行音樂中心",
+      "sale_status": "5/23全面啟售",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#在玹",
+      "detail_title": "台北演唱會｜在玹「JAEHYUN FAN-CON TOUR in TAIPEI」",
+      "concert_time": "2026/7/4（六）18:00\n2026/7/5（日）18:00",
+      "concert_location": "台北流行音樂中心",
+      "sale_time": "NCTzen 127 Membership（GL）官方會員預購：2026/5/22（五）19:00-5/23（六）9:59\n一般售票：2026/5/23（六）12:00",
+      "ticket_platform": "拓元售票",
+      "ticket_platform_links": [
+        {
+          "name": "拓元售票",
+          "url": "https://tixcraft.com/activity/detail/26_jaehyun"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：",
+        "2026/7/4（六）18:00",
+        "2026/7/5（日）18:00",
+        "演唱會地點： 台北流行音樂中心",
+        "售票時間：",
+        "NCTzen 127 Membership（GL）官方會員預購：2026/5/22（五）19:00-5/23（六）9:59",
+        "一般售票：2026/5/23（六）12:00",
+        "票價：NT$6480 / 6280 / 5880 / 4880 / 3880（身障席NT$3240 / 2940）",
+        "售票平台： 拓元售票"
       ]
     },
     {
@@ -204,6 +330,42 @@
         "NT$2880（含2860門票及20福利券）",
         "身心席NT$1940（含1900門票及40福利券）",
         "售票平台： 7-ELEVEN ibon售票系統網站 （不開放機台購票）"
+      ]
+    },
+    {
+      "performer": "T CONCERT",
+      "concert_date_from_table": "8/1-2",
+      "location_from_table": "台北流行音樂中心表演廳&戶外廣場",
+      "sale_status": "5/15開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#T CONCERT",
+      "detail_title": "台北演唱會｜2026 T CONCERT「IDOL MEET FEST偶像相遇祭」",
+      "concert_time": "2026/8/1（六）-8/2（日）13:00-20:30",
+      "concert_location": "台北流行音樂中心 表演廳&戶外廣場",
+      "sale_time": "早鳥票（僅限1樓搖滾區）：2026/5/11（一）18:00\n預售票／身障票：\n8/1場次：2026/5/15（五）12:00\n8/2場次：2026/5/15（五）13:00",
+      "ticket_platform": "ibon售票系統 （機台及線上購票）\n演出陣容：\n8/1（六）：Ozone、FEniX、VERA、AcQUA源少年、Saturnday、B CRUSH、F.F.O、LCY呂植宇、SmileDash、SOLOMOON紫月光、WillTrip須弘道、小歐、巴比、鄭馥儀、顧穎。\n8/2（日）：U:NUS、FEniX、VERA、HUR+、babyMINT、ARKis、ELL&s、HAKU、LCY呂植宇、LUVSSI、PINK FUN、TPE48、品怡、家妤、幽靈水晶。",
+      "ticket_platform_links": [
+        {
+          "name": "ibon售票系統",
+          "url": "https://ticket.ibon.com.tw/ActivityInfo/Details/39607"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：2026/8/1（六）-8/2（日）13:00-20:30",
+        "演唱會地點： 台北流行音樂中心 表演廳&戶外廣場",
+        "售票時間：",
+        "早鳥票（僅限1樓搖滾區）：2026/5/11（一）18:00",
+        "預售票／身障票：",
+        "8/1場次：2026/5/15（五）12:00",
+        "8/2場次：2026/5/15（五）13:00",
+        "票價：",
+        "早鳥票：雙日4580 / 單日2580",
+        "預售票（1樓搖滾區）：雙日4880 / 單日2880",
+        "預售票（2、3樓座位區）：單日3280 / 2880 / 2680 / 2480 / 1980",
+        "身障票：單日1440 / 1240",
+        "售票平台： ibon售票系統 （機台及線上購票）",
+        "演出陣容：",
+        "8/1（六）：Ozone、FEniX、VERA、AcQUA源少年、Saturnday、B CRUSH、F.F.O、LCY呂植宇、SmileDash、SOLOMOON紫月光、WillTrip須弘道、小歐、巴比、鄭馥儀、顧穎。",
+        "8/2（日）：U:NUS、FEniX、VERA、HUR+、babyMINT、ARKis、ELL&s、HAKU、LCY呂植宇、LUVSSI、PINK FUN、TPE48、品怡、家妤、幽靈水晶。"
       ]
     },
     {
@@ -387,6 +549,37 @@
       ]
     },
     {
+      "performer": "蔡琴",
+      "concert_date_from_table": "9/12-13\n9/18-19",
+      "location_from_table": "TICC台北國際會議中心",
+      "sale_status": "加場5/15開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#蔡琴",
+      "detail_title": "台北演唱會｜蔡琴「不要告別」巡迴演唱會〔台北返場〕",
+      "concert_time": "2026/09/12（六）19:30\n2026/09/13（日）19:30\n2026/09/18（六）19:30（加場）\n2026/09/19（日）19:30（加場）",
+      "concert_location": "TICC台北國際會議中心",
+      "sale_time": "全面啟售：2026/4/26（日）11:00\n加場開賣：2026/5/15（五）10:00",
+      "ticket_platform": "ibon售票系統 （機台及線上購票）",
+      "ticket_platform_links": [
+        {
+          "name": "ibon售票系統",
+          "url": "https://ticket.ibon.com.tw/ActivityInfo/Details/39559"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：",
+        "2026/09/12（六）19:30",
+        "2026/09/13（日）19:30",
+        "2026/09/18（六）19:30（加場）",
+        "2026/09/19（日）19:30（加場）",
+        "演唱會地點： TICC台北國際會議中心",
+        "售票時間：",
+        "全面啟售：2026/4/26（日）11:00",
+        "加場開賣：2026/5/15（五）10:00",
+        "票價：NT$5580 / 4280 / 3280 / 2580 / 2280 / 1680（全區對號入座）",
+        "售票平台： ibon售票系統 （機台及線上購票）"
+      ]
+    },
+    {
       "performer": "呂允",
       "concert_date_from_table": "9/18-19",
       "location_from_table": "Zepp New Taipei",
@@ -475,6 +668,27 @@
       ]
     },
     {
+      "performer": "理想混蛋",
+      "concert_date_from_table": "10/17",
+      "location_from_table": "高雄巨蛋",
+      "sale_status": "6/6正式啟售",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#理想混蛋",
+      "detail_title": "高雄演唱會｜理想混蛋「不是因為天氣晴朗才見面」",
+      "concert_time": "2026/10/17（六）18:00",
+      "concert_location": "高雄巨蛋",
+      "sale_time": "永豐貴賓序號優先購：2026/6/5（五）14:00-17:00\n正式開賣：2026/6/6（六）10:14",
+      "ticket_platform": "KKTIX",
+      "ticket_platform_links": [],
+      "raw_detail_items": [
+        "演唱會時間：2026/10/17（六）18:00",
+        "演唱會地點： 高雄巨蛋",
+        "售票時間：",
+        "永豐貴賓序號優先購：2026/6/5（五）14:00-17:00",
+        "正式開賣：2026/6/6（六）10:14",
+        "售票平台：KKTIX"
+      ]
+    },
+    {
       "performer": "TWS",
       "concert_date_from_table": "10/24",
       "location_from_table": "高雄巨蛋",
@@ -518,25 +732,28 @@
       "performer": "Vaundy",
       "concert_date_from_table": "10/31-11/1",
       "location_from_table": "台北小巨蛋",
-      "sale_status": "尚未公告",
+      "sale_status": "5/13-17登記抽選",
       "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#Vaundy",
       "detail_title": "台北演唱會｜Vaundy「ASIA ARENA TOUR 2026 HORO」台北公演",
       "concert_time": "2026/10/31（六）、2026/11/1（日）",
       "concert_location": "台北小巨蛋",
-      "sale_time": "待官方後續公布",
-      "ticket_platform": "Vaundy官方網站",
+      "sale_time": "售票時間（實名登記抽選制）：\n2026/5/13（三）12:00-5/17（日）21:00\n2026/5/19（二）12:00\n繳費期限：2026/5/20（三）12:00止",
+      "ticket_platform": "Ticket Plus遠大售票系統",
       "ticket_platform_links": [
         {
-          "name": "Vaundy官方網站",
-          "url": "https://member.vaundy.jp/feature/ASIAARENATOUR_2026"
+          "name": "Ticket Plus遠大售票系統",
+          "url": "https://ticketplus.com.tw/activity/6c3d8c24e0f00c9c84777615c001bebe"
         }
       ],
       "raw_detail_items": [
         "演唱會時間：2026/10/31（六）、2026/11/1（日）",
-        "演唱會地點：台北小巨蛋",
-        "售票時間：待官方後續公布",
-        "票價：待官方後續公布",
-        "售票平台： Vaundy官方網站"
+        "演唱會地點： 台北小巨蛋",
+        "售票時間（實名登記抽選制）：",
+        "登記時間：2026/5/13（三）12:00-5/17（日）21:00",
+        "結果公布：2026/5/19（二）12:00",
+        "繳費期限：2026/5/20（三）12:00止",
+        "票價：NT$5880 / 4880 / 3880 / 2880 / 800",
+        "售票平台： Ticket Plus遠大售票系統"
       ]
     },
     {
@@ -650,6 +867,48 @@
         "售票時間：待公告",
         "票價：待公告",
         "售票平台：待公告"
+      ]
+    },
+    {
+      "performer": "BABYMONSTER",
+      "concert_date_from_table": "11/21-22",
+      "location_from_table": "台北小巨蛋",
+      "sale_status": "待公告",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#BABYMONSTER 11月",
+      "detail_title": "台北演唱會｜BABYMONSTER「춤 (CHOOM)」2026-27 WORLD TOUR IN TAIPEI",
+      "concert_time": "2026/11/21（六）\n2026/11/22（日）",
+      "concert_location": "台北小巨蛋",
+      "sale_time": "待公布",
+      "ticket_platform": "待公布",
+      "ticket_platform_links": [],
+      "raw_detail_items": [
+        "演唱會時間：",
+        "2026/11/21（六）",
+        "2026/11/22（日）",
+        "演唱會地點： 台北小巨蛋",
+        "售票時間：待公布",
+        "票價：待公布",
+        "售票平台：待公布"
+      ]
+    },
+    {
+      "performer": "BOYNEXTDOOR",
+      "concert_date_from_table": "2027/1/9",
+      "location_from_table": "國立體育大學綜合體育館",
+      "sale_status": "待公告",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#BOYNEXTDOOR",
+      "detail_title": "林口演唱會｜BOYNEXTDOOR「KNOCK ON Vol.2」巡迴演唱會台北站",
+      "concert_time": "2027/1/9（六）",
+      "concert_location": "國立體育大學綜合體育館 （林口體育館）",
+      "sale_time": "待公布",
+      "ticket_platform": "待公布",
+      "ticket_platform_links": [],
+      "raw_detail_items": [
+        "演唱會時間：2027/1/9（六）",
+        "演唱會地點： 國立體育大學綜合體育館 （林口體育館）",
+        "售票時間：待公布",
+        "票價：待公布",
+        "售票平台：待公布"
       ]
     },
     {
