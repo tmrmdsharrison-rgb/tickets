@@ -1,116 +1,126 @@
 {
   "source_url": "https://www.businessweekly.com.tw/style/blog/3019879#XG",
-  "scraped_at": "2026-05-24T06:23:04",
-  "previous_scraped_at": "2026-05-20T06:34:25",
+  "scraped_at": "2026-05-27T06:47:17",
+  "previous_scraped_at": "2026-05-24T06:23:04",
   "summary": {
-    "added": 5,
-    "updated": 2,
-    "removed": 5
+    "added": 0,
+    "updated": 1,
+    "removed": 3
   },
-  "added": [
+  "added": [],
+  "updated": [
     {
-      "performer": "BTS",
-      "concert_date_from_table": "11/19\n11/21-22",
-      "location_from_table": "高雄國家體育場",
-      "sale_status": "尚未公告",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#BTS",
-      "detail_title": "高雄演唱會｜防彈少年團「BTS WORLD TOUR KAOHSIUNG」",
-      "concert_time": "2026/11/19（四）\n2026/11/21（六）\n2026/11/22（日）",
-      "concert_location": "高雄國家體育館",
-      "sale_time": "待官方後續公布",
-      "ticket_platform": "待官方後續公布",
+      "key": "BTS | https://www.businessweekly.com.tw/style/blog/3019879#BTS | 11/19 11/21-22 | 高雄國家體育場",
+      "before": {
+        "performer": "BTS",
+        "concert_date_from_table": "11/19\n11/21-22",
+        "location_from_table": "高雄國家體育場",
+        "sale_status": "尚未公告",
+        "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#BTS",
+        "detail_title": "高雄演唱會｜防彈少年團「BTS WORLD TOUR KAOHSIUNG」",
+        "concert_time": "2026/11/19（四）\n2026/11/21（六）\n2026/11/22（日）",
+        "concert_location": "高雄國家體育館",
+        "sale_time": "待官方後續公布",
+        "ticket_platform": "待官方後續公布",
+        "ticket_platform_links": [],
+        "raw_detail_items": [
+          "演唱會時間：",
+          "2026/11/19（四）",
+          "2026/11/21（六）",
+          "2026/11/22（日）",
+          "演唱會地點：高雄國家體育館",
+          "售票時間：待官方後續公布",
+          "票價：待官方後續公布",
+          "售票平台：待官方後續公布"
+        ]
+      },
+      "after": {
+        "performer": "BTS",
+        "concert_date_from_table": "11/19\n11/21-22",
+        "location_from_table": "高雄國家體育場",
+        "sale_status": "6/4全面啟售",
+        "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#BTS",
+        "detail_title": "高雄演唱會｜防彈少年團「BTS WORLD TOUR KAOHSIUNG」",
+        "concert_time": "2026/11/19（四）\n2026/11/21（六）\n2026/11/22（日）",
+        "concert_location": "高雄國家體育館",
+        "sale_time": "5/22（五）13:00～5/27（三）11:00 ARMY會員預購登記\n6/2（二）12:00-22:00 ARMY會員優先購票\n6/3（三）12:00-22:00 Live Nation會員預售\n6/4（四）12:00 拓元實名制全面開賣",
+        "ticket_platform": "拓元售票系統 （實名制）",
+        "ticket_platform_links": [
+          {
+            "name": "拓元售票系統",
+            "url": "http://tixcraft.com/activity/detail/26_btskns"
+          }
+        ],
+        "raw_detail_items": [
+          "演唱會時間：",
+          "2026/11/19（四）",
+          "2026/11/21（六）",
+          "2026/11/22（日）",
+          "演唱會地點： 高雄國家體育館",
+          "售票時間：",
+          "5/22（五）13:00～5/27（三）11:00 ARMY會員預購登記",
+          "6/2（二）12:00-22:00 ARMY會員優先購票",
+          "6/3（三）12:00-22:00 Live Nation會員預售",
+          "6/4（四）12:00 拓元實名制全面開賣",
+          "票價：",
+          "VIP套票：9380元（含座位區門票1張、演前Soundcheck彩排觀賞資格、VIP專屬禮、VIP掛繩及吊牌1組，以及現場官方周邊優先購買權）。",
+          "一般票價：7980／6980／5980／4980／3980／2980元。",
+          "身障優惠票：3490 / 2990元。",
+          "系統服務費：每張票券另加200元。",
+          "售票平台： 拓元售票系統 （實名制）"
+        ]
+      },
+      "changes": {
+        "sale_status": {
+          "before": "尚未公告",
+          "after": "6/4全面啟售"
+        },
+        "sale_time": {
+          "before": "待官方後續公布",
+          "after": "5/22（五）13:00～5/27（三）11:00 ARMY會員預購登記\n6/2（二）12:00-22:00 ARMY會員優先購票\n6/3（三）12:00-22:00 Live Nation會員預售\n6/4（四）12:00 拓元實名制全面開賣"
+        },
+        "ticket_platform": {
+          "before": "待官方後續公布",
+          "after": "拓元售票系統 （實名制）"
+        },
+        "ticket_platform_links": {
+          "before": [],
+          "after": [
+            {
+              "name": "拓元售票系統",
+              "url": "http://tixcraft.com/activity/detail/26_btskns"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "removed": [
+    {
+      "performer": "五月天",
+      "concert_date_from_table": "7/3-5\n7/8\n7/10-12",
+      "location_from_table": "台北大巨蛋",
+      "sale_status": "5/23開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#五月天台北大巨蛋",
+      "detail_title": "台北演唱會｜五月天「#5525+2 回到那一天」25週年巡迴演唱會 台北站・重回大巨蛋版",
+      "concert_time": "2026/7/3（五）\n2026/7/4（六）\n2026/7/5（日）\n2026/7/8（三）\n2026/7/10（五）\n2026/7/11（六）\n2026/7/12（日）",
+      "concert_location": "台北大巨蛋",
+      "sale_time": "2026/5/23（六）",
+      "ticket_platform": "拓元售票系統",
       "ticket_platform_links": [],
       "raw_detail_items": [
         "演唱會時間：",
-        "2026/11/19（四）",
-        "2026/11/21（六）",
-        "2026/11/22（日）",
-        "演唱會地點：高雄國家體育館",
-        "售票時間：待官方後續公布",
-        "票價：待官方後續公布",
-        "售票平台：待官方後續公布"
-      ]
-    },
-    {
-      "performer": "STAYC",
-      "concert_date_from_table": "10/11",
-      "location_from_table": "TICC台北國際會議中心",
-      "sale_status": "5/30開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#STAYC",
-      "detail_title": "台北演唱會｜STAYC「STAY CLOSER」粉絲見面會",
-      "concert_time": "2026/10/11（日）17:00",
-      "concert_location": "TICC台北國際會議中心",
-      "sale_time": "2026/5/30（六）12:00開賣",
-      "ticket_platform": "KKTIX",
-      "ticket_platform_links": [
-        {
-          "name": "KKTIX",
-          "url": "https://farglorycreative.kktix.cc/events/cacf3d76"
-        }
-      ],
-      "raw_detail_items": [
-        "演出時間：2026/10/11（日）17:00",
-        "演出地點： TICC台北國際會議中心",
-        "售票時間：2026/5/30（六）12:00開賣",
-        "票價：",
-        "一般票：NT$7800 / 5800 / 4800 / 3800 / 2800（全場對號入座）",
-        "身心障礙票：NT$2900",
-        "售票平台： KKTIX"
-      ]
-    },
-    {
-      "performer": "iKON",
-      "concert_date_from_table": "7/18",
-      "location_from_table": "台北流行音樂中心表演廳",
-      "sale_status": "5/29開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#iKON",
-      "detail_title": "台北演唱會｜iKON「FOUREVER WORLD TOUR」",
-      "concert_time": "2026/7/18（六）19:00",
-      "concert_location": "台北流行音樂中心表演廳",
-      "sale_time": "5/29（五）12:00開賣",
-      "ticket_platform": "KKTIX",
-      "ticket_platform_links": [
-        {
-          "name": "KKTIX",
-          "url": "https://wve.kktix.cc/events/ikon2026"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/7/18（六）19:00",
-        "演唱會地點： 台北流行音樂中心表演廳",
-        "售票時間：5/29（五）12:00開賣",
-        "票價：NT$6200 / 5800 / 4800 / 3800 / 3100 / 2900（全區座席）",
-        "售票平台： KKTIX"
-      ]
-    },
-    {
-      "performer": "wave to earth",
-      "concert_date_from_table": "11/24",
-      "location_from_table": "TICC台北國際會議中心",
-      "sale_status": "5/26全面啟售",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#wave to earth",
-      "detail_title": "台北演唱會｜wave to earth「the pieces tour」",
-      "concert_time": "2026/11/24（二）19:30",
-      "concert_location": "TICC台北國際會議中心",
-      "sale_time": "Live Nation Taiwan會員預售：2026/5/25（一）11:00-23:59\n正式開賣：2026/5/26（二）11:00全面開賣",
-      "ticket_platform": "拓元售票系統",
-      "ticket_platform_links": [
-        {
-          "name": "拓元售票系統",
-          "url": "https://tixcraft.com/activity/detail/26_wte"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/11/24（二）19:30",
-        "演唱會地點： TICC台北國際會議中心",
-        "售票時間：",
-        "Live Nation Taiwan會員預售：2026/5/25（一）11:00-23:59",
-        "正式開賣：2026/5/26（二）11:00全面開賣",
-        "票價：",
-        "一般票：NT$2300起至NT$6300",
-        "身障優惠票（陪同票）：NT$1950",
-        "註：每張票券外加系統服務費200元，實際票價以售票系統當下顯示為準。",
-        "售票平台： 拓元售票系統"
+        "2026/7/3（五）",
+        "2026/7/4（六）",
+        "2026/7/5（日）",
+        "2026/7/8（三）",
+        "2026/7/10（五）",
+        "2026/7/11（六）",
+        "2026/7/12（日）",
+        "演唱會地點： 台北大巨蛋",
+        "售票時間：2026/5/23（六）",
+        "票價：尚未公布",
+        "售票平台：拓元售票系統"
       ]
     },
     {
@@ -141,279 +151,34 @@
         "身障席：NT$800",
         "售票平台： 拓元售票系統"
       ]
-    }
-  ],
-  "updated": [
-    {
-      "key": "Ave Mujica | https://www.businessweekly.com.tw/style/blog/3019879#Ave Mujica | 8/8-9 | 國立體育大學綜合體育館",
-      "before": {
-        "performer": "Ave Mujica",
-        "concert_date_from_table": "8/8-9",
-        "location_from_table": "國立體育大學綜合體育館",
-        "sale_status": "登記截止",
-        "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#Ave Mujica",
-        "detail_title": "台北演唱會｜Ave Mujica「Exitus」LIVE TOUR 2026台北公演",
-        "concert_time": "2026/8/8（六）19:30\n2026/8/9（日）18:30",
-        "concert_location": "國立體育大學綜合體育館（林口體育館）",
-        "sale_time": "抽選登記：2026/4/11（六）20:30～4/20（一）23:59\n2026/4/23（四）13:00起\n付款期限：2026/4/23（四）中選後～4/27（一）12:00",
-        "ticket_platform": "TicketPlus遠大售票系統",
-        "ticket_platform_links": [
-          {
-            "name": "TicketPlus遠大售票系統",
-            "url": "https://ticketplus.com.tw/activity/296250ccc90137f0ce805764b3a6f450"
-          }
-        ],
-        "raw_detail_items": [
-          "演唱會時間：",
-          "2026/8/8（六）19:30",
-          "2026/8/9（日）18:30",
-          "演唱會地點： 國立體育大學綜合體育館（林口體育館）",
-          "售票時間：",
-          "抽選登記：2026/4/11（六）20:30～4/20（一）23:59",
-          "結果公布：2026/4/23（四）13:00起",
-          "付款期限：2026/4/23（四）中選後～4/27（一）12:00",
-          "票價：NT$5880 / 4880 / 4280 / 3880 / 2880 / 1880 / 愛心席1440",
-          "售票平台： TicketPlus遠大售票系統"
-        ]
-      },
-      "after": {
-        "performer": "Ave Mujica",
-        "concert_date_from_table": "8/8-9",
-        "location_from_table": "國立體育大學綜合體育館",
-        "sale_status": "抽選登記截止",
-        "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#Ave Mujica",
-        "detail_title": "台北演唱會｜Ave Mujica「Exitus」LIVE TOUR 2026台北公演",
-        "concert_time": "2026/8/8（六）19:30\n2026/8/9（日）18:30",
-        "concert_location": "國立體育大學綜合體育館（林口體育館）",
-        "sale_time": "抽選登記：2026/4/11（六）20:30～4/20（一）23:59\n2026/4/23（四）13:00起\n付款期限：2026/4/23（四）中選後～4/27（一）12:00",
-        "ticket_platform": "TicketPlus遠大售票系統",
-        "ticket_platform_links": [
-          {
-            "name": "TicketPlus遠大售票系統",
-            "url": "https://ticketplus.com.tw/activity/296250ccc90137f0ce805764b3a6f450"
-          }
-        ],
-        "raw_detail_items": [
-          "演唱會時間：",
-          "2026/8/8（六）19:30",
-          "2026/8/9（日）18:30",
-          "演唱會地點： 國立體育大學綜合體育館（林口體育館）",
-          "售票時間：",
-          "抽選登記：2026/4/11（六）20:30～4/20（一）23:59",
-          "結果公布：2026/4/23（四）13:00起",
-          "付款期限：2026/4/23（四）中選後～4/27（一）12:00",
-          "票價：NT$5880 / 4880 / 4280 / 3880 / 2880 / 1880 / 愛心席1440",
-          "售票平台： TicketPlus遠大售票系統"
-        ]
-      },
-      "changes": {
-        "sale_status": {
-          "before": "登記截止",
-          "after": "抽選登記截止"
-        }
-      }
     },
     {
-      "key": "natori | https://www.businessweekly.com.tw/style/blog/3019879#natori | 8/8-9 | 台北流行音樂中心",
-      "before": {
-        "performer": "natori",
-        "concert_date_from_table": "8/8-9",
-        "location_from_table": "台北流行音樂中心",
-        "sale_status": "5/18加場登記抽選",
-        "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#natori",
-        "detail_title": "台北演唱會｜natori「Koshin (March)」ONE-MAN LIVE TOUR in Taipei",
-        "concert_time": "2026/8/8（六）18:00\n2026/8/9（日）16:00（加場）",
-        "concert_location": "台北流行音樂中心表演廳",
-        "sale_time": "追加場次登記抽選：2026/5/18（一）13:00至2026/5/20（三）13:00\n追加場次結果公布：2026/5/22（五）12:00\n追加場次結帳期間：2026/5/22（五）中選後至2026/5/24（日）13:00\n復活抽選：2026/5/25（一）12:00起陸續通知\n一般販售：2026/6/3（三）12:00",
-        "ticket_platform": "Ticket Plus遠大售票",
-        "ticket_platform_links": [
-          {
-            "name": "Ticket Plus遠大售票",
-            "url": "https://ticketplus.com.tw/activity/29fa6643314e7415c12c2bd89117e0ec"
-          }
-        ],
-        "raw_detail_items": [
-          "演唱會時間：",
-          "2026/8/8（六）18:00",
-          "2026/8/9（日）16:00（加場）",
-          "演唱會地點： 台北流行音樂中心表演廳",
-          "售票時間：",
-          "追加場次登記抽選：2026/5/18（一）13:00至2026/5/20（三）13:00",
-          "追加場次結果公布：2026/5/22（五）12:00",
-          "追加場次結帳期間：2026/5/22（五）中選後至2026/5/24（日）13:00",
-          "復活抽選：2026/5/25（一）12:00起陸續通知",
-          "一般販售：2026/6/3（三）12:00",
-          "票價：1F站席NT$4200 / 2F前座席NT$3600 / 2F後座席NT$3200 / 3F座席NT$2800 / 1F輪椅身障席NT$2100 / 2F身障席NT$1600",
-          "售票平台： Ticket Plus遠大售票"
-        ]
-      },
-      "after": {
-        "performer": "natori",
-        "concert_date_from_table": "8/8-9",
-        "location_from_table": "台北流行音樂中心",
-        "sale_status": "抽選登記截止",
-        "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#natori",
-        "detail_title": "台北演唱會｜natori「Koshin (March)」ONE-MAN LIVE TOUR in Taipei",
-        "concert_time": "2026/8/8（六）18:00\n2026/8/9（日）16:00（加場）",
-        "concert_location": "台北流行音樂中心表演廳",
-        "sale_time": "追加場次登記抽選：2026/5/18（一）13:00至2026/5/20（三）13:00\n追加場次結果公布：2026/5/22（五）12:00\n追加場次結帳期間：2026/5/22（五）中選後至2026/5/24（日）13:00\n復活抽選：2026/5/25（一）12:00起陸續通知\n一般販售：2026/6/3（三）12:00",
-        "ticket_platform": "Ticket Plus遠大售票",
-        "ticket_platform_links": [
-          {
-            "name": "Ticket Plus遠大售票",
-            "url": "https://ticketplus.com.tw/activity/29fa6643314e7415c12c2bd89117e0ec"
-          }
-        ],
-        "raw_detail_items": [
-          "演唱會時間：",
-          "2026/8/8（六）18:00",
-          "2026/8/9（日）16:00（加場）",
-          "演唱會地點： 台北流行音樂中心表演廳",
-          "售票時間：",
-          "追加場次登記抽選：2026/5/18（一）13:00至2026/5/20（三）13:00",
-          "追加場次結果公布：2026/5/22（五）12:00",
-          "追加場次結帳期間：2026/5/22（五）中選後至2026/5/24（日）13:00",
-          "復活抽選：2026/5/25（一）12:00起陸續通知",
-          "一般販售：2026/6/3（三）12:00",
-          "票價：1F站席NT$4200 / 2F前座席NT$3600 / 2F後座席NT$3200 / 3F座席NT$2800 / 1F輪椅身障席NT$2100 / 2F身障席NT$1600",
-          "售票平台： Ticket Plus遠大售票"
-        ]
-      },
-      "changes": {
-        "sale_status": {
-          "before": "5/18加場登記抽選",
-          "after": "抽選登記截止"
+      "performer": "在玹",
+      "concert_date_from_table": "7/14-15",
+      "location_from_table": "台北流行音樂中心",
+      "sale_status": "5/23全面啟售",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#在玹",
+      "detail_title": "台北演唱會｜在玹「JAEHYUN FAN-CON TOUR in TAIPEI」",
+      "concert_time": "2026/7/4（六）18:00\n2026/7/5（日）18:00",
+      "concert_location": "台北流行音樂中心",
+      "sale_time": "NCTzen 127 Membership（GL）官方會員預購：2026/5/22（五）19:00-5/23（六）9:59\n一般售票：2026/5/23（六）12:00",
+      "ticket_platform": "拓元售票",
+      "ticket_platform_links": [
+        {
+          "name": "拓元售票",
+          "url": "https://tixcraft.com/activity/detail/26_jaehyun"
         }
-      }
-    }
-  ],
-  "removed": [
-    {
-      "performer": "BTS",
-      "concert_date_from_table": "11/19\n11/21-22",
-      "location_from_table": "高雄（場地待公布）",
-      "sale_status": "尚未公告",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#BTS",
-      "detail_title": "高雄演唱會｜防彈少年團「BTS WORLD TOUR KAOHSIUNG」",
-      "concert_time": "2026/11/19（四）\n2026/11/21（六）\n2026/11/22（日）",
-      "concert_location": "高雄（場館待後續公布）",
-      "sale_time": "待官方後續公布",
-      "ticket_platform": "待官方後續公布",
-      "ticket_platform_links": [],
+      ],
       "raw_detail_items": [
         "演唱會時間：",
-        "2026/11/19（四）",
-        "2026/11/21（六）",
-        "2026/11/22（日）",
-        "演唱會地點：高雄（場館待後續公布）",
-        "售票時間：待官方後續公布",
-        "票價：待官方後續公布",
-        "售票平台：待官方後續公布"
-      ]
-    },
-    {
-      "performer": "周蕙",
-      "concert_date_from_table": "11/11",
-      "location_from_table": "衛武營國家藝術文化中心表演廳",
-      "sale_status": "5/22全面啟售",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#周蕙",
-      "detail_title": "高雄演唱會｜周蕙「Chill夜」爵士之夜",
-      "concert_time": "2026/11/11（三）20:00",
-      "concert_location": "衛武營國家藝術文化中心表演廳",
-      "sale_time": "鐵鳥套票搶先購：2026/5/14（四）12:00～2026/5/15（五）12:00（任選下半年3檔節目各1張）\n衛武營會員優先購票：2026/5/15（五）12:00\n全面啟售：2026/5/22（五）12:00",
-      "ticket_platform": "OPENTIX兩廳院文化生活",
-      "ticket_platform_links": [
-        {
-          "name": "OPENTIX兩廳院文化生活",
-          "url": "https://www.opentix.life/topic/1334412608580890625?srsltid=AfmBOorZdvGytB42PZhZcT506KW5TzCVA4NxxZau9sly5FM9ixkWfcJm"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/11/11（三）20:00",
-        "演唱會地點： 衛武營國家藝術文化中心表演廳",
-        "售票時間：",
-        "鐵鳥套票搶先購：2026/5/14（四）12:00～2026/5/15（五）12:00（任選下半年3檔節目各1張）",
-        "衛武營會員優先購票：2026/5/15（五）12:00",
-        "全面啟售：2026/5/22（五）12:00",
-        "票價：NT$800 / 500 / 300",
-        "售票平台： OPENTIX兩廳院文化生活"
-      ]
-    },
-    {
-      "performer": "蕭景鴻",
-      "concert_date_from_table": "7/11",
-      "location_from_table": "Legacy TERA",
-      "sale_status": "5/22開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#蕭景鴻台北",
-      "detail_title": "台北演唱會｜蕭景鴻「以我為名Who I Am」New Album Live Tour",
-      "concert_time": "2026/7/11（六）19:00",
-      "concert_location": "Legacy TERA",
-      "sale_time": "2026/5/22（五）12:30全面開賣",
-      "ticket_platform": "拓元售票",
-      "ticket_platform_links": [
-        {
-          "name": "拓元售票",
-          "url": "https://tixcraft.com/activity/detail/26_edyhsiao"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/7/11（六）19:00",
-        "演唱會地點： Legacy TERA",
-        "售票時間：2026/5/22（五）12:30全面開賣",
-        "票價：全區座位席NT$2400 / 門票加購紀念禮NT$2500（內含2400元門票與限量紀念禮，限量紀念禮內含3款寫真小卡隨機盲抽贈送）",
-        "售票平台： 拓元售票"
-      ]
-    },
-    {
-      "performer": "蕭景鴻",
-      "concert_date_from_table": "9/26",
-      "location_from_table": "後台Backstage Live",
-      "sale_status": "5/22開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#蕭景鴻高雄",
-      "detail_title": "高雄演唱會｜蕭景鴻「以我為名Who I Am」New Album Live Tour",
-      "concert_time": "2026/9/26（六）19:00",
-      "concert_location": "後台Backstage Live",
-      "sale_time": "2026/5/22（五）12:30全面開賣",
-      "ticket_platform": "拓元售票",
-      "ticket_platform_links": [
-        {
-          "name": "拓元售票",
-          "url": "https://tixcraft.com/activity/detail/26_edyhsiao"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/9/26（六）19:00",
-        "演唱會地點： 後台Backstage Live",
-        "售票時間：2026/5/22（五）12:30全面開賣",
-        "票價：全區座位席NT$2400 / 門票加購紀念禮NT$2500（內含2400元門票與限量紀念禮，限量紀念禮內含3款寫真小卡隨機盲抽贈送）",
-        "售票平台： 拓元售票"
-      ]
-    },
-    {
-      "performer": "邱鋒澤",
-      "concert_date_from_table": "8/22",
-      "location_from_table": "台北流行音樂中心",
-      "sale_status": "5/20全面啟售",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#邱鋒澤台北",
-      "detail_title": "台北演唱會｜邱鋒澤「Bend The Lines Concert」",
-      "concert_time": "2026/8/22（六）19:30",
-      "concert_location": "台北流行音樂中心",
-      "sale_time": "會員優先購票：2026/5/13（三）12:00至2026/5/15（五）18:00（須於2026/5/8中午12:00前完成原音娛樂官網會員註冊）\n正式全面開賣：2026/5/20（三）12:00",
-      "ticket_platform": "寬宏售票 、萊爾富、OK便利商店",
-      "ticket_platform_links": [
-        {
-          "name": "寬宏售票",
-          "url": "https://kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P19R2KJI"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/8/22（六）19:30",
+        "2026/7/4（六）18:00",
+        "2026/7/5（日）18:00",
         "演唱會地點： 台北流行音樂中心",
         "售票時間：",
-        "會員優先購票：2026/5/13（三）12:00至2026/5/15（五）18:00（須於2026/5/8中午12:00前完成原音娛樂官網會員註冊）",
-        "正式全面開賣：2026/5/20（三）12:00",
-        "票價：NT$4280 / 3880 / 3480 / 2880 / 2480 / 1880",
-        "售票平台： 寬宏售票 、萊爾富、OK便利商店"
+        "NCTzen 127 Membership（GL）官方會員預購：2026/5/22（五）19:00-5/23（六）9:59",
+        "一般售票：2026/5/23（六）12:00",
+        "票價：NT$6480 / 6280 / 5880 / 4880 / 3880（身障席NT$3240 / 2940）",
+        "售票平台： 拓元售票"
       ]
     }
   ]
