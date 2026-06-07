@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.businessweekly.com.tw/style/blog/3019879#XG",
-  "scraped_at": "2026-06-03T07:25:31",
+  "scraped_at": "2026-06-07T06:49:46",
   "excluded_statuses": [
     "完售",
     "熱賣中"
@@ -9,7 +9,7 @@
     "完售",
     "熱賣中"
   ],
-  "count": 26,
+  "count": 21,
   "items": [
     {
       "performer": "King Gnu",
@@ -40,111 +40,86 @@
       ]
     },
     {
-      "performer": "JANNABI",
-      "concert_date_from_table": "6/27",
-      "location_from_table": "TICC台北國際會議中心",
-      "sale_status": "5/19-27登記抽選",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#JANNABI",
-      "detail_title": "台北演唱會｜JANNABI「1st Asia Tour : Sweat & Stardust in Taipei」",
-      "concert_time": "2026/6/27（六）18:00",
-      "concert_location": "TICC台北國際會議中心",
-      "sale_time": "抽選登記時間：2026/5/19（二）18:00～2026/5/27（三）12:00\n抽選結果公佈：2026/5/29（五）12:00起陸續發送E-MAIL通知\n付款時間：2026/5/29（五）確認中選後至2026/5/31（日）12:00截止",
-      "ticket_platform": "KKTIX",
-      "ticket_platform_links": [
-        {
-          "name": "KKTIX",
-          "url": "https://baodaorecords.kktix.cc/events/ofrw9e"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/6/27（六）18:00",
-        "演唱會地點： TICC台北國際會議中心",
-        "售票時間：",
-        "抽選登記時間：2026/5/19（二）18:00～2026/5/27（三）12:00",
-        "抽選結果公佈：2026/5/29（五）12:00起陸續發送E-MAIL通知",
-        "付款時間：2026/5/29（五）確認中選後至2026/5/31（日）12:00截止",
-        "票價：",
-        "VIP區：NT$3800（凡購買者可享NT$1加購VIP福利，含A3簽名海報、VIP PASS、優先入場、周邊優先購買權、會後見面會）",
-        "一般票：NT$3200 / 2800 / 1800",
-        "愛心席：NT$1900",
-        "售票平台： KKTIX"
-      ]
-    },
-    {
       "performer": "MAMAMOO",
       "concert_date_from_table": "7/4",
-      "location_from_table": "高雄（場地待公告）",
-      "sale_status": "待公告",
+      "location_from_table": "高雄巨蛋",
+      "sale_status": "6/7",
       "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#MAMAMOO",
       "detail_title": "高雄演唱會｜MAMAMOO「2026 WORLD TOUR ANNOUNCEMENT IN KAOHSIUNG」",
-      "concert_time": "2026/7/4（六）",
-      "concert_location": "高雄（詳細場館待官方進一步公布）",
-      "sale_time": "待官方公告",
-      "ticket_platform": "待官方公告",
-      "ticket_platform_links": [],
+      "concert_time": "2026/7/4（六）18:30",
+      "concert_location": "高雄巨蛋",
+      "sale_time": "2026/6/7（日）12:00開賣",
+      "ticket_platform": "KKTIX售票系統",
+      "ticket_platform_links": [
+        {
+          "name": "KKTIX售票系統",
+          "url": "https://kklivetw.kktix.cc/events/54a70a7a"
+        }
+      ],
       "raw_detail_items": [
-        "演唱會時間：2026/7/4（六）",
-        "演唱會地點：高雄（詳細場館待官方進一步公布）",
-        "售票時間：待官方公告",
-        "票價：待官方公告",
-        "售票平台：待官方公告"
+        "演唱會時間：2026/7/4（六）18:30",
+        "演唱會地點： 高雄巨蛋",
+        "售票時間：2026/6/7（日）12:00開賣",
+        "票價：",
+        "福利加購套票（含演出票券及加購福利）：NT$6980 / 6380 / 5880 / 4880 / 3880 / 3380",
+        "一般門票（無福利）：NT$6900 / 6320 / 5840 / 4860 / 3870 / 3370",
+        "身心障礙票：NT$3530（非輪椅席含福利）/ 3450（非輪椅席無福利）/ 1695（輪椅席含福利）/ 1685（輪椅席無福利）",
+        "售票平台： KKTIX售票系統"
       ]
     },
     {
-      "performer": "iKON",
-      "concert_date_from_table": "7/18",
-      "location_from_table": "台北流行音樂中心表演廳",
-      "sale_status": "5/29開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#iKON",
-      "detail_title": "台北演唱會｜iKON「FOUREVER WORLD TOUR」",
-      "concert_time": "2026/7/18（六）19:00",
-      "concert_location": "台北流行音樂中心表演廳",
-      "sale_time": "5/29（五）12:00開賣",
-      "ticket_platform": "KKTIX",
+      "performer": "Karencici",
+      "concert_date_from_table": "7/10",
+      "location_from_table": "Zepp New Taipei",
+      "sale_status": "6/13",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#Karencici",
+      "detail_title": "台北演唱會｜Karencici「The Loser」",
+      "concert_time": "2026/7/10（五）19:30",
+      "concert_location": "Zepp New Taipei",
+      "sale_time": "2026/6/13（六）15:00全面啟售",
+      "ticket_platform": "KKTIX 、全台全家便利商店",
       "ticket_platform_links": [
         {
           "name": "KKTIX",
-          "url": "https://wve.kktix.cc/events/ikon2026"
+          "url": "https://warnermusictwtw.kktix.cc/events/ofgkrikd"
         }
       ],
       "raw_detail_items": [
-        "演唱會時間：2026/7/18（六）19:00",
-        "演唱會地點： 台北流行音樂中心表演廳",
-        "售票時間：5/29（五）12:00開賣",
-        "票價：NT$6200 / 5800 / 4800 / 3800 / 3100 / 2900（全區座席）",
-        "售票平台： KKTIX"
+        "演唱會時間：2026/7/10（五）19:30",
+        "演唱會地點： Zepp New Taipei",
+        "售票時間：2026/6/13（六）15:00全面啟售",
+        "票價：二樓座位區VIP NT$3500 / 一樓站區VIP NT$3000 / 二樓座位區NT$2200 / 一樓站區NT$1800 / 愛心票NT$800",
+        "售票平台： KKTIX 、全台全家便利商店"
       ]
     },
     {
-      "performer": "熊仔",
-      "concert_date_from_table": "7/18-19",
-      "location_from_table": "Legacy Taipei",
-      "sale_status": "6/3全面啟售",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#熊仔",
-      "detail_title": "台北演唱會｜熊仔「人格特化療程→0」十週年紀念演唱會",
-      "concert_time": "2026/7/18（六）19:00\n2026/7/19（日）17:00",
-      "concert_location": "Legacy Taipei",
-      "sale_time": "Planet K會員預售：2026/6/1（一）10:00～2026/6/3（三）10:00\n正式開賣：2026/6/3（三）13:00起",
-      "ticket_platform": "拓元售票系統",
+      "performer": "厲旭",
+      "concert_date_from_table": "8/1",
+      "location_from_table": "Legacy TERA",
+      "sale_status": "6/6全面開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#厲旭",
+      "detail_title": "台北演唱會｜厲旭「2026 RYEOWOOK'S AGIT CONCERT : DIVE TO BLUE in TAIPEI」",
+      "concert_time": "2026/8/1（六）18:00",
+      "concert_location": "Legacy TERA",
+      "sale_time": "官方會員優先購票資格登記：2026/5/29（五）12:00至2026/5/31（日）11:59止（須加入Weverse並成為SUPER JUNIOR Official Fanclub「E.L.F. Membership (Global)」有效會員）\n官方會員優先購票：2026/6/5（五）12:00至17:59止（購票時須輸入會員編號作為預購碼）\n全面開賣：2026/6/6（六）12:00",
+      "ticket_platform": "寬宏售票系統",
       "ticket_platform_links": [
         {
-          "name": "拓元售票系統",
-          "url": "https://tixcraft.com/activity/detail/26_kumachan"
+          "name": "寬宏售票系統",
+          "url": "https://kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1ASGZ2G"
         }
       ],
       "raw_detail_items": [
-        "演唱會時間：",
-        "2026/7/18（六）19:00",
-        "2026/7/19（日）17:00",
-        "演唱會地點： Legacy Taipei",
+        "演唱會時間：2026/8/1（六）18:00",
+        "演唱會地點： Legacy TERA",
         "售票時間：",
-        "Planet K會員預售：2026/6/1（一）10:00～2026/6/3（三）10:00",
-        "正式開賣：2026/6/3（三）13:00起",
+        "官方會員優先購票資格登記：2026/5/29（五）12:00至2026/5/31（日）11:59止（須加入Weverse並成為SUPER JUNIOR Official Fanclub「E.L.F. Membership (Global)」有效會員）",
+        "官方會員優先購票：2026/6/5（五）12:00至17:59止（購票時須輸入會員編號作為預購碼）",
+        "全面開賣：2026/6/6（六）12:00",
         "票價：",
-        "VIP套票NT$2600（含入場門票、優先入場、VIP吊牌、飲料兌換券、After Party資格）",
-        "一般站區NT$1600",
-        "身障優惠票NT$800",
-        "售票平台： 拓元售票系統"
+        "VIP福利套票：NT$5690 / 4890 / 3890（含門票及NT$10福利加價購，可享有該票價之所有粉絲福利）",
+        "一般門票（無福利）：NT$5680 / 4880 / 3880",
+        "售票平台： 寬宏售票系統"
       ]
     },
     {
@@ -354,63 +329,6 @@
       ]
     },
     {
-      "performer": "STAYC",
-      "concert_date_from_table": "10/11",
-      "location_from_table": "TICC台北國際會議中心",
-      "sale_status": "5/30開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#STAYC",
-      "detail_title": "台北演唱會｜STAYC「STAY CLOSER」粉絲見面會",
-      "concert_time": "2026/10/11（日）17:00",
-      "concert_location": "TICC台北國際會議中心",
-      "sale_time": "2026/5/30（六）12:00開賣",
-      "ticket_platform": "KKTIX",
-      "ticket_platform_links": [
-        {
-          "name": "KKTIX",
-          "url": "https://farglorycreative.kktix.cc/events/cacf3d76"
-        }
-      ],
-      "raw_detail_items": [
-        "演出時間：2026/10/11（日）17:00",
-        "演出地點： TICC台北國際會議中心",
-        "售票時間：2026/5/30（六）12:00開賣",
-        "票價：",
-        "一般票：NT$7800 / 5800 / 4800 / 3800 / 2800（全場對號入座）",
-        "身心障礙票：NT$2900",
-        "售票平台： KKTIX"
-      ]
-    },
-    {
-      "performer": "Omoinotake",
-      "concert_date_from_table": "10/11",
-      "location_from_table": "Zepp New Taipei",
-      "sale_status": "5/29開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#Omoinotake",
-      "detail_title": "新北演唱會｜Omoinotake「ONE MAN TOUR 2026 TAIPEI」",
-      "concert_time": "2026/10/11（日）19:00（18:00開放入場）",
-      "concert_location": "Zepp New Taipei",
-      "sale_time": "2026/5/29（五）12:00開賣",
-      "ticket_platform": "KKTIX",
-      "ticket_platform_links": [
-        {
-          "name": "KKTIX",
-          "url": "https://offtimemusic.kktix.cc/events/omoinotake2026"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/10/11（日）19:00（18:00開放入場）",
-        "演唱會地點： Zepp New Taipei",
-        "售票時間：2026/5/29（五）12:00開賣",
-        "票價：",
-        "1F Zone A VIP站席 NT2880",
-        "2F 座席 NT2580",
-        "1F Zone B 一般站席 NT2280",
-        "2F 站席 NT2080",
-        "愛心票 NT1200",
-        "售票平台： KKTIX"
-      ]
-    },
-    {
       "performer": "理想混蛋",
       "concert_date_from_table": "10/17",
       "location_from_table": "高雄巨蛋",
@@ -505,23 +423,25 @@
       ]
     },
     {
-      "performer": "Jason Mraz",
-      "concert_date_from_table": "11/2",
-      "location_from_table": "台北南港展覽館",
-      "sale_status": "5/30開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#Jason Mraz",
-      "detail_title": "台北演唱會｜Jason Mraz Asia 2026 Tour",
-      "concert_time": "2026/11/2（一）",
-      "concert_location": "台北南港展覽館",
-      "sale_time": "2026/5/30（六）12:00",
-      "ticket_platform": "年代售票系統",
+      "performer": "木村拓哉",
+      "concert_date_from_table": "11/13-14",
+      "location_from_table": "台北流行音樂中心",
+      "sale_status": "尚未公告",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#木村拓哉",
+      "detail_title": "台北演唱會｜木村拓哉「TAKUYA KIMURA Live Tour 2026 Checkpoint」海外巡演",
+      "concert_time": "2026/11/13（五）\n2026/11/14（六）",
+      "concert_location": "台北流行音樂中心",
+      "sale_time": "待公告",
+      "ticket_platform": "待公告",
       "ticket_platform_links": [],
       "raw_detail_items": [
-        "演唱會時間：2026/11/2（一）",
-        "演唱會地點： 台北南港展覽館",
-        "售票時間：2026/5/30（六）12:00",
+        "演唱會時間：",
+        "2026/11/13（五）",
+        "2026/11/14（六）",
+        "演唱會地點： 台北流行音樂中心",
+        "售票時間：待公告",
         "票價：待公告",
-        "售票平台：年代售票系統"
+        "售票平台：待公告"
       ]
     },
     {
@@ -544,42 +464,6 @@
         "售票時間：待公布",
         "票價：待公布",
         "售票平台：待公布"
-      ]
-    },
-    {
-      "performer": "BTS",
-      "concert_date_from_table": "11/19\n11/21-22",
-      "location_from_table": "高雄國家體育場",
-      "sale_status": "6/4全面啟售",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#BTS",
-      "detail_title": "高雄演唱會｜防彈少年團「BTS WORLD TOUR KAOHSIUNG」",
-      "concert_time": "2026/11/19（四）\n2026/11/21（六）\n2026/11/22（日）",
-      "concert_location": "高雄國家體育館",
-      "sale_time": "5/22（五）13:00～5/27（三）11:00 ARMY會員預購登記\n6/2（二）12:00-22:00 ARMY會員優先購票\n6/3（三）12:00-22:00 Live Nation會員預售\n6/4（四）12:00 拓元實名制全面開賣",
-      "ticket_platform": "拓元售票系統 （實名制）",
-      "ticket_platform_links": [
-        {
-          "name": "拓元售票系統",
-          "url": "http://tixcraft.com/activity/detail/26_btskns"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：",
-        "2026/11/19（四）",
-        "2026/11/21（六）",
-        "2026/11/22（日）",
-        "演唱會地點： 高雄國家體育館",
-        "售票時間：",
-        "5/22（五）13:00～5/27（三）11:00 ARMY會員預購登記",
-        "6/2（二）12:00-22:00 ARMY會員優先購票",
-        "6/3（三）12:00-22:00 Live Nation會員預售",
-        "6/4（四）12:00 拓元實名制全面開賣",
-        "票價：",
-        "VIP套票：9380元（含座位區門票1張、演前Soundcheck彩排觀賞資格、VIP專屬禮、VIP掛繩及吊牌1組，以及現場官方周邊優先購買權）。",
-        "一般票價：7980／6980／5980／4980／3980／2980元。",
-        "身障優惠票：3490 / 2990元。",
-        "系統服務費：每張票券另加200元。",
-        "售票平台： 拓元售票系統 （實名制）"
       ]
     },
     {
@@ -622,36 +506,6 @@
         "售票時間：待公布",
         "票價：待公布",
         "售票平台：待公布"
-      ]
-    },
-    {
-      "performer": "wave to earth",
-      "concert_date_from_table": "11/24",
-      "location_from_table": "TICC台北國際會議中心",
-      "sale_status": "5/26全面啟售",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#wave to earth",
-      "detail_title": "台北演唱會｜wave to earth「the pieces tour」",
-      "concert_time": "2026/11/24（二）19:30",
-      "concert_location": "TICC台北國際會議中心",
-      "sale_time": "Live Nation Taiwan會員預售：2026/5/25（一）11:00-23:59\n正式開賣：2026/5/26（二）11:00全面開賣",
-      "ticket_platform": "拓元售票系統",
-      "ticket_platform_links": [
-        {
-          "name": "拓元售票系統",
-          "url": "https://tixcraft.com/activity/detail/26_wte"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/11/24（二）19:30",
-        "演唱會地點： TICC台北國際會議中心",
-        "售票時間：",
-        "Live Nation Taiwan會員預售：2026/5/25（一）11:00-23:59",
-        "正式開賣：2026/5/26（二）11:00全面開賣",
-        "票價：",
-        "一般票：NT$2300起至NT$6300",
-        "身障優惠票（陪同票）：NT$1950",
-        "註：每張票券外加系統服務費200元，實際票價以售票系統當下顯示為準。",
-        "售票平台： 拓元售票系統"
       ]
     },
     {
