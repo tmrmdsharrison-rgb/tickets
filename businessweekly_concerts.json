@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.businessweekly.com.tw/style/blog/3019879#XG",
-  "scraped_at": "2026-06-07T06:49:46",
+  "scraped_at": "2026-06-10T06:50:35",
   "excluded_statuses": [
     "完售",
     "熱賣中"
@@ -9,36 +9,8 @@
     "完售",
     "熱賣中"
   ],
-  "count": 21,
+  "count": 20,
   "items": [
-    {
-      "performer": "King Gnu",
-      "concert_date_from_table": "6/6-7",
-      "location_from_table": "台北小巨蛋",
-      "sale_status": "登記截止",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#King Gnu",
-      "detail_title": "台北演唱會｜King Gnu「CEN+RAL Tour 2026」",
-      "concert_time": "2026/6/6（六）、2026/6/7（日）",
-      "concert_location": "台北小巨蛋",
-      "sale_time": "售票時間（實名制登記抽選）：\n2026/3/4（三）17:00-3/8（日）17:00\n2026/3/10（二）12:00起陸續通知\n繳費期限：2026/3/11（三）12:00止",
-      "ticket_platform": "Ticket Plus 遠大售票系統",
-      "ticket_platform_links": [
-        {
-          "name": "Ticket Plus 遠大售票系統",
-          "url": "https://ticketplus.com.tw/activity/f0b8e1d965d0d87cd8fb77dde7386ff9"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/6/6（六）、2026/6/7（日）",
-        "演唱會地點： 台北小巨蛋",
-        "售票時間（實名制登記抽選）：",
-        "登記時間：2026/3/4（三）17:00-3/8（日）17:00",
-        "結果公布：2026/3/10（二）12:00起陸續通知",
-        "繳費期限：2026/3/11（三）12:00止",
-        "票價：NT$5880 / 4880 / 3880 / 2880 / 800",
-        "售票平台： Ticket Plus 遠大售票系統"
-      ]
-    },
     {
       "performer": "MAMAMOO",
       "concert_date_from_table": "7/4",
@@ -330,14 +302,14 @@
     },
     {
       "performer": "理想混蛋",
-      "concert_date_from_table": "10/17",
+      "concert_date_from_table": "10/17-18",
       "location_from_table": "高雄巨蛋",
       "sale_status": "6/6正式啟售",
       "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#理想混蛋",
       "detail_title": "高雄演唱會｜理想混蛋「不是因為天氣晴朗才見面」",
-      "concert_time": "2026/10/17（六）18:00",
+      "concert_time": "2026/10/17（六）18:00\n2026/10/18（日）17:00（加場）",
       "concert_location": "高雄巨蛋",
-      "sale_time": "永豐貴賓序號優先購：2026/6/5（五）14:00-17:00\n正式開賣：2026/6/6（六）10:14",
+      "sale_time": "永豐貴賓序號優先購：2026/6/5（五）14:00-17:00\n正式開賣：2026/6/6（六）10:14\n加場開賣：2026/6/13（六）10:14",
       "ticket_platform": "KKTIX",
       "ticket_platform_links": [
         {
@@ -346,11 +318,14 @@
         }
       ],
       "raw_detail_items": [
-        "演唱會時間：2026/10/17（六）18:00",
+        "演唱會時間：",
+        "2026/10/17（六）18:00",
+        "2026/10/18（日）17:00（加場）",
         "演唱會地點： 高雄巨蛋",
         "售票時間：",
         "永豐貴賓序號優先購：2026/6/5（五）14:00-17:00",
         "正式開賣：2026/6/6（六）10:14",
+        "加場開賣：2026/6/13（六）10:14",
         "售票平台： KKTIX"
       ]
     },
