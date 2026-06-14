@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.businessweekly.com.tw/style/blog/3019879#XG",
-  "scraped_at": "2026-06-10T06:50:35",
+  "scraped_at": "2026-06-14T07:08:30",
   "excluded_statuses": [
     "完售",
     "熱賣中"
@@ -9,18 +9,18 @@
     "完售",
     "熱賣中"
   ],
-  "count": 20,
+  "count": 24,
   "items": [
     {
       "performer": "MAMAMOO",
-      "concert_date_from_table": "7/4",
+      "concert_date_from_table": "7/4-5",
       "location_from_table": "高雄巨蛋",
-      "sale_status": "6/7",
+      "sale_status": "加場6/14開賣",
       "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#MAMAMOO",
       "detail_title": "高雄演唱會｜MAMAMOO「2026 WORLD TOUR ANNOUNCEMENT IN KAOHSIUNG」",
-      "concert_time": "2026/7/4（六）18:30",
+      "concert_time": "2026/7/4（六）18:30\n2026/7/5（日）17:30（加場）",
       "concert_location": "高雄巨蛋",
-      "sale_time": "2026/6/7（日）12:00開賣",
+      "sale_time": "2026/6/7（日）12:00開賣\n加場：2026/6/14（日）13:00開賣",
       "ticket_platform": "KKTIX售票系統",
       "ticket_platform_links": [
         {
@@ -29,9 +29,13 @@
         }
       ],
       "raw_detail_items": [
-        "演唱會時間：2026/7/4（六）18:30",
+        "演唱會時間：",
+        "2026/7/4（六）18:30",
+        "2026/7/5（日）17:30（加場）",
         "演唱會地點： 高雄巨蛋",
-        "售票時間：2026/6/7（日）12:00開賣",
+        "售票時間：",
+        "2026/6/7（日）12:00開賣",
+        "加場：2026/6/14（日）13:00開賣",
         "票價：",
         "福利加購套票（含演出票券及加購福利）：NT$6980 / 6380 / 5880 / 4880 / 3880 / 3380",
         "一般門票（無福利）：NT$6900 / 6320 / 5840 / 4860 / 3870 / 3370",
@@ -95,6 +99,26 @@
       ]
     },
     {
+      "performer": "AHOF",
+      "concert_date_from_table": "8/2",
+      "location_from_table": "TICC台北國際會議中心",
+      "sale_status": "6/20開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#AHOF",
+      "detail_title": "台北演唱會｜AHOF《2026 AHOF 1ST TOUR: THE FIRST SARK IN TAIPEI》",
+      "concert_time": "2026/08/02 (日) 18:00（實際演出時間以現場公告為準）",
+      "concert_location": "TICC台北國際會議中心",
+      "sale_time": "2026/6/20（六）12:00",
+      "ticket_platform": "拓元售票系統",
+      "ticket_platform_links": [],
+      "raw_detail_items": [
+        "演唱會時間：2026/08/02 (日) 18:00（實際演出時間以現場公告為準）",
+        "演唱會地點： TICC台北國際會議中心",
+        "售票時間：2026/6/20（六）12:00",
+        "開賣票價：NT$5800 / NT$4800 / NT$3800 / 身障席 NT$2900（全場均為劃位座席）",
+        "售票平台：拓元售票系統"
+      ]
+    },
+    {
       "performer": "natori",
       "concert_date_from_table": "8/8-9",
       "location_from_table": "台北流行音樂中心",
@@ -154,6 +178,31 @@
         "付款期限：2026/4/23（四）中選後～4/27（一）12:00",
         "票價：NT$5880 / 4880 / 4280 / 3880 / 2880 / 1880 / 愛心席1440",
         "售票平台： TicketPlus遠大售票系統"
+      ]
+    },
+    {
+      "performer": "小樂吳思賢",
+      "concert_date_from_table": "8/14",
+      "location_from_table": "Legacy TERA",
+      "sale_status": "6/16開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#吳思賢",
+      "detail_title": "台北演唱會｜吳思賢「還得是你Beyond You」",
+      "concert_time": "2026/8/14（五）19:30",
+      "concert_location": "Legacy TERA",
+      "sale_time": "2026/6/16（二）12:00開賣",
+      "ticket_platform": "拓元售票系統",
+      "ticket_platform_links": [
+        {
+          "name": "拓元售票系統",
+          "url": "https://tixcraft.com/activity/detail/26_benwu"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：2026/8/14（五）19:30",
+        "演唱會地點： Legacy TERA",
+        "售票時間：2026/6/16（二）12:00開賣",
+        "票價：全座席NT$2520 / 身障優惠票NT$1260",
+        "售票平台： 拓元售票系統"
       ]
     },
     {
@@ -301,6 +350,26 @@
       ]
     },
     {
+      "performer": "BIGBANG",
+      "concert_date_from_table": "10/10-11",
+      "location_from_table": "台北大巨蛋",
+      "sale_status": "待公告",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#BIGBANG台北",
+      "detail_title": "台北演唱會｜BIGBANG《BIGBANG 2026 WORLD TOUR》",
+      "concert_time": "2026/10/10（六）～10/11（日）",
+      "concert_location": "台北大巨蛋",
+      "sale_time": "待公告",
+      "ticket_platform": "待公告",
+      "ticket_platform_links": [],
+      "raw_detail_items": [
+        "演唱會時間：2026/10/10（六）～10/11（日）",
+        "演唱會地點： 台北大巨蛋",
+        "售票時間：待公告",
+        "票價：待公告",
+        "售票平台：待公告"
+      ]
+    },
+    {
       "performer": "理想混蛋",
       "concert_date_from_table": "10/17-18",
       "location_from_table": "高雄巨蛋",
@@ -353,20 +422,25 @@
       "performer": "藤井風",
       "concert_date_from_table": "10/31",
       "location_from_table": "高雄國家體育場",
-      "sale_status": "待公布",
+      "sale_status": "6/20",
       "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#藤井風",
       "detail_title": "高雄演唱會｜藤井風Fujii Kaze Prema世界巡迴演唱會高雄站",
       "concert_time": "2026/10/31（六）",
       "concert_location": "高雄國家體育場",
-      "sale_time": "待公布",
-      "ticket_platform": "待公布",
-      "ticket_platform_links": [],
+      "sale_time": "2026/6/20（六）12:00開賣",
+      "ticket_platform": "KKTIX網站 、全家便利商店FamiPort",
+      "ticket_platform_links": [
+        {
+          "name": "KKTIX網站",
+          "url": "https://kklivetw.kktix.cc/events/34473ba4"
+        }
+      ],
       "raw_detail_items": [
         "演出時間：2026/10/31（六）",
         "演出地點： 高雄國家體育場",
-        "售票時間：待公布",
-        "票價：待公布",
-        "售票平台：待公布"
+        "售票時間：2026/6/20（六）12:00開賣",
+        "票價：NT$5800 / 4800 / 3800 / 2800 / 1800（全場座席）",
+        "售票平台： KKTIX網站 、全家便利商店FamiPort"
       ]
     },
     {
@@ -501,6 +575,26 @@
         "售票時間：待公布",
         "票價：待公布",
         "售票平台：待公布"
+      ]
+    },
+    {
+      "performer": "BIGBANG",
+      "concert_date_from_table": "2027/2/27-28",
+      "location_from_table": "高雄國家體育場",
+      "sale_status": "待公告",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#BIGBANG高雄",
+      "detail_title": "高雄演唱會｜BIGBANG《BIGBANG 2026 WORLD TOUR》",
+      "concert_time": "2027/2/27（六）～2/28（日）",
+      "concert_location": "高雄國家體育場",
+      "sale_time": "待公告",
+      "ticket_platform": "待公告",
+      "ticket_platform_links": [],
+      "raw_detail_items": [
+        "演唱會時間：2027/2/27（六）～2/28（日）",
+        "演唱會地點： 高雄國家體育場",
+        "售票時間：待公告",
+        "票價：待公告",
+        "售票平台：待公告"
       ]
     },
     {

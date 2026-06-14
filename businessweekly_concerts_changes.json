@@ -1,97 +1,231 @@
 {
   "source_url": "https://www.businessweekly.com.tw/style/blog/3019879#XG",
-  "scraped_at": "2026-06-10T06:50:35",
-  "previous_scraped_at": "2026-06-07T06:49:46",
+  "scraped_at": "2026-06-14T07:08:30",
+  "previous_scraped_at": "2026-06-10T06:50:35",
   "summary": {
-    "added": 1,
-    "updated": 0,
-    "removed": 2
+    "added": 5,
+    "updated": 1,
+    "removed": 1
   },
   "added": [
     {
-      "performer": "理想混蛋",
-      "concert_date_from_table": "10/17-18",
+      "performer": "AHOF",
+      "concert_date_from_table": "8/2",
+      "location_from_table": "TICC台北國際會議中心",
+      "sale_status": "6/20開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#AHOF",
+      "detail_title": "台北演唱會｜AHOF《2026 AHOF 1ST TOUR: THE FIRST SARK IN TAIPEI》",
+      "concert_time": "2026/08/02 (日) 18:00（實際演出時間以現場公告為準）",
+      "concert_location": "TICC台北國際會議中心",
+      "sale_time": "2026/6/20（六）12:00",
+      "ticket_platform": "拓元售票系統",
+      "ticket_platform_links": [],
+      "raw_detail_items": [
+        "演唱會時間：2026/08/02 (日) 18:00（實際演出時間以現場公告為準）",
+        "演唱會地點： TICC台北國際會議中心",
+        "售票時間：2026/6/20（六）12:00",
+        "開賣票價：NT$5800 / NT$4800 / NT$3800 / 身障席 NT$2900（全場均為劃位座席）",
+        "售票平台：拓元售票系統"
+      ]
+    },
+    {
+      "performer": "BIGBANG",
+      "concert_date_from_table": "10/10-11",
+      "location_from_table": "台北大巨蛋",
+      "sale_status": "待公告",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#BIGBANG台北",
+      "detail_title": "台北演唱會｜BIGBANG《BIGBANG 2026 WORLD TOUR》",
+      "concert_time": "2026/10/10（六）～10/11（日）",
+      "concert_location": "台北大巨蛋",
+      "sale_time": "待公告",
+      "ticket_platform": "待公告",
+      "ticket_platform_links": [],
+      "raw_detail_items": [
+        "演唱會時間：2026/10/10（六）～10/11（日）",
+        "演唱會地點： 台北大巨蛋",
+        "售票時間：待公告",
+        "票價：待公告",
+        "售票平台：待公告"
+      ]
+    },
+    {
+      "performer": "BIGBANG",
+      "concert_date_from_table": "2027/2/27-28",
+      "location_from_table": "高雄國家體育場",
+      "sale_status": "待公告",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#BIGBANG高雄",
+      "detail_title": "高雄演唱會｜BIGBANG《BIGBANG 2026 WORLD TOUR》",
+      "concert_time": "2027/2/27（六）～2/28（日）",
+      "concert_location": "高雄國家體育場",
+      "sale_time": "待公告",
+      "ticket_platform": "待公告",
+      "ticket_platform_links": [],
+      "raw_detail_items": [
+        "演唱會時間：2027/2/27（六）～2/28（日）",
+        "演唱會地點： 高雄國家體育場",
+        "售票時間：待公告",
+        "票價：待公告",
+        "售票平台：待公告"
+      ]
+    },
+    {
+      "performer": "MAMAMOO",
+      "concert_date_from_table": "7/4-5",
       "location_from_table": "高雄巨蛋",
-      "sale_status": "6/6正式啟售",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#理想混蛋",
-      "detail_title": "高雄演唱會｜理想混蛋「不是因為天氣晴朗才見面」",
-      "concert_time": "2026/10/17（六）18:00\n2026/10/18（日）17:00（加場）",
+      "sale_status": "加場6/14開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#MAMAMOO",
+      "detail_title": "高雄演唱會｜MAMAMOO「2026 WORLD TOUR ANNOUNCEMENT IN KAOHSIUNG」",
+      "concert_time": "2026/7/4（六）18:30\n2026/7/5（日）17:30（加場）",
       "concert_location": "高雄巨蛋",
-      "sale_time": "永豐貴賓序號優先購：2026/6/5（五）14:00-17:00\n正式開賣：2026/6/6（六）10:14\n加場開賣：2026/6/13（六）10:14",
-      "ticket_platform": "KKTIX",
+      "sale_time": "2026/6/7（日）12:00開賣\n加場：2026/6/14（日）13:00開賣",
+      "ticket_platform": "KKTIX售票系統",
       "ticket_platform_links": [
         {
-          "name": "KKTIX",
-          "url": "https://best-onlineteam.kktix.cc/events/akjerg2"
+          "name": "KKTIX售票系統",
+          "url": "https://kklivetw.kktix.cc/events/54a70a7a"
         }
       ],
       "raw_detail_items": [
         "演唱會時間：",
-        "2026/10/17（六）18:00",
-        "2026/10/18（日）17:00（加場）",
+        "2026/7/4（六）18:30",
+        "2026/7/5（日）17:30（加場）",
         "演唱會地點： 高雄巨蛋",
         "售票時間：",
-        "永豐貴賓序號優先購：2026/6/5（五）14:00-17:00",
-        "正式開賣：2026/6/6（六）10:14",
-        "加場開賣：2026/6/13（六）10:14",
-        "售票平台： KKTIX"
-      ]
-    }
-  ],
-  "updated": [],
-  "removed": [
-    {
-      "performer": "King Gnu",
-      "concert_date_from_table": "6/6-7",
-      "location_from_table": "台北小巨蛋",
-      "sale_status": "登記截止",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#King Gnu",
-      "detail_title": "台北演唱會｜King Gnu「CEN+RAL Tour 2026」",
-      "concert_time": "2026/6/6（六）、2026/6/7（日）",
-      "concert_location": "台北小巨蛋",
-      "sale_time": "售票時間（實名制登記抽選）：\n2026/3/4（三）17:00-3/8（日）17:00\n2026/3/10（二）12:00起陸續通知\n繳費期限：2026/3/11（三）12:00止",
-      "ticket_platform": "Ticket Plus 遠大售票系統",
-      "ticket_platform_links": [
-        {
-          "name": "Ticket Plus 遠大售票系統",
-          "url": "https://ticketplus.com.tw/activity/f0b8e1d965d0d87cd8fb77dde7386ff9"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/6/6（六）、2026/6/7（日）",
-        "演唱會地點： 台北小巨蛋",
-        "售票時間（實名制登記抽選）：",
-        "登記時間：2026/3/4（三）17:00-3/8（日）17:00",
-        "結果公布：2026/3/10（二）12:00起陸續通知",
-        "繳費期限：2026/3/11（三）12:00止",
-        "票價：NT$5880 / 4880 / 3880 / 2880 / 800",
-        "售票平台： Ticket Plus 遠大售票系統"
+        "2026/6/7（日）12:00開賣",
+        "加場：2026/6/14（日）13:00開賣",
+        "票價：",
+        "福利加購套票（含演出票券及加購福利）：NT$6980 / 6380 / 5880 / 4880 / 3880 / 3380",
+        "一般門票（無福利）：NT$6900 / 6320 / 5840 / 4860 / 3870 / 3370",
+        "身心障礙票：NT$3530（非輪椅席含福利）/ 3450（非輪椅席無福利）/ 1695（輪椅席含福利）/ 1685（輪椅席無福利）",
+        "售票平台： KKTIX售票系統"
       ]
     },
     {
-      "performer": "理想混蛋",
-      "concert_date_from_table": "10/17",
-      "location_from_table": "高雄巨蛋",
-      "sale_status": "6/6正式啟售",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#理想混蛋",
-      "detail_title": "高雄演唱會｜理想混蛋「不是因為天氣晴朗才見面」",
-      "concert_time": "2026/10/17（六）18:00",
-      "concert_location": "高雄巨蛋",
-      "sale_time": "永豐貴賓序號優先購：2026/6/5（五）14:00-17:00\n正式開賣：2026/6/6（六）10:14",
-      "ticket_platform": "KKTIX",
+      "performer": "小樂吳思賢",
+      "concert_date_from_table": "8/14",
+      "location_from_table": "Legacy TERA",
+      "sale_status": "6/16開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#吳思賢",
+      "detail_title": "台北演唱會｜吳思賢「還得是你Beyond You」",
+      "concert_time": "2026/8/14（五）19:30",
+      "concert_location": "Legacy TERA",
+      "sale_time": "2026/6/16（二）12:00開賣",
+      "ticket_platform": "拓元售票系統",
       "ticket_platform_links": [
         {
-          "name": "KKTIX",
-          "url": "https://best-onlineteam.kktix.cc/events/akjerg2"
+          "name": "拓元售票系統",
+          "url": "https://tixcraft.com/activity/detail/26_benwu"
         }
       ],
       "raw_detail_items": [
-        "演唱會時間：2026/10/17（六）18:00",
+        "演唱會時間：2026/8/14（五）19:30",
+        "演唱會地點： Legacy TERA",
+        "售票時間：2026/6/16（二）12:00開賣",
+        "票價：全座席NT$2520 / 身障優惠票NT$1260",
+        "售票平台： 拓元售票系統"
+      ]
+    }
+  ],
+  "updated": [
+    {
+      "key": "藤井風 | https://www.businessweekly.com.tw/style/blog/3019879#藤井風 | 10/31 | 高雄國家體育場",
+      "before": {
+        "performer": "藤井風",
+        "concert_date_from_table": "10/31",
+        "location_from_table": "高雄國家體育場",
+        "sale_status": "待公布",
+        "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#藤井風",
+        "detail_title": "高雄演唱會｜藤井風Fujii Kaze Prema世界巡迴演唱會高雄站",
+        "concert_time": "2026/10/31（六）",
+        "concert_location": "高雄國家體育場",
+        "sale_time": "待公布",
+        "ticket_platform": "待公布",
+        "ticket_platform_links": [],
+        "raw_detail_items": [
+          "演出時間：2026/10/31（六）",
+          "演出地點： 高雄國家體育場",
+          "售票時間：待公布",
+          "票價：待公布",
+          "售票平台：待公布"
+        ]
+      },
+      "after": {
+        "performer": "藤井風",
+        "concert_date_from_table": "10/31",
+        "location_from_table": "高雄國家體育場",
+        "sale_status": "6/20",
+        "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#藤井風",
+        "detail_title": "高雄演唱會｜藤井風Fujii Kaze Prema世界巡迴演唱會高雄站",
+        "concert_time": "2026/10/31（六）",
+        "concert_location": "高雄國家體育場",
+        "sale_time": "2026/6/20（六）12:00開賣",
+        "ticket_platform": "KKTIX網站 、全家便利商店FamiPort",
+        "ticket_platform_links": [
+          {
+            "name": "KKTIX網站",
+            "url": "https://kklivetw.kktix.cc/events/34473ba4"
+          }
+        ],
+        "raw_detail_items": [
+          "演出時間：2026/10/31（六）",
+          "演出地點： 高雄國家體育場",
+          "售票時間：2026/6/20（六）12:00開賣",
+          "票價：NT$5800 / 4800 / 3800 / 2800 / 1800（全場座席）",
+          "售票平台： KKTIX網站 、全家便利商店FamiPort"
+        ]
+      },
+      "changes": {
+        "sale_status": {
+          "before": "待公布",
+          "after": "6/20"
+        },
+        "sale_time": {
+          "before": "待公布",
+          "after": "2026/6/20（六）12:00開賣"
+        },
+        "ticket_platform": {
+          "before": "待公布",
+          "after": "KKTIX網站 、全家便利商店FamiPort"
+        },
+        "ticket_platform_links": {
+          "before": [],
+          "after": [
+            {
+              "name": "KKTIX網站",
+              "url": "https://kklivetw.kktix.cc/events/34473ba4"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "removed": [
+    {
+      "performer": "MAMAMOO",
+      "concert_date_from_table": "7/4",
+      "location_from_table": "高雄巨蛋",
+      "sale_status": "6/7",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#MAMAMOO",
+      "detail_title": "高雄演唱會｜MAMAMOO「2026 WORLD TOUR ANNOUNCEMENT IN KAOHSIUNG」",
+      "concert_time": "2026/7/4（六）18:30",
+      "concert_location": "高雄巨蛋",
+      "sale_time": "2026/6/7（日）12:00開賣",
+      "ticket_platform": "KKTIX售票系統",
+      "ticket_platform_links": [
+        {
+          "name": "KKTIX售票系統",
+          "url": "https://kklivetw.kktix.cc/events/54a70a7a"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：2026/7/4（六）18:30",
         "演唱會地點： 高雄巨蛋",
-        "售票時間：",
-        "永豐貴賓序號優先購：2026/6/5（五）14:00-17:00",
-        "正式開賣：2026/6/6（六）10:14",
-        "售票平台： KKTIX"
+        "售票時間：2026/6/7（日）12:00開賣",
+        "票價：",
+        "福利加購套票（含演出票券及加購福利）：NT$6980 / 6380 / 5880 / 4880 / 3880 / 3380",
+        "一般門票（無福利）：NT$6900 / 6320 / 5840 / 4860 / 3870 / 3370",
+        "身心障礙票：NT$3530（非輪椅席含福利）/ 3450（非輪椅席無福利）/ 1695（輪椅席含福利）/ 1685（輪椅席無福利）",
+        "售票平台： KKTIX售票系統"
       ]
     }
   ]
