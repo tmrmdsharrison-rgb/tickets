@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.businessweekly.com.tw/style/blog/3019879#XG",
-  "scraped_at": "2026-07-01T06:53:41",
+  "scraped_at": "2026-07-05T06:25:16",
   "excluded_statuses": [
     "完售",
     "熱賣中"
@@ -9,7 +9,7 @@
     "完售",
     "熱賣中"
   ],
-  "count": 24,
+  "count": 25,
   "items": [
     {
       "performer": "P1Harmony",
@@ -239,6 +239,33 @@
         "一般票NT$5880 / 4880 / 3880 / 3380 / 2880 / 800",
         "身障優惠/陪同票NT$400",
         "售票平台： 拓元售票系統 、Live Nation Taiwan官網"
+      ]
+    },
+    {
+      "performer": "洪佩瑜",
+      "concert_date_from_table": "9/5\n9/12\n9/18",
+      "location_from_table": "Legacy Taichung\nLIVE WAREHOUSE\nLegacy TERA",
+      "sale_status": "7/5",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#洪佩瑜",
+      "detail_title": "台北、台中、高雄巡迴演唱會｜洪佩瑜「開了又開」",
+      "concert_time": "演唱會時間與地點：\n台中場：2026/9/5（六）19:00於 Legacy Taichung\n高雄場：2026/9/12（六）19:00於 LIVE WAREHOUSE\n台北場：2026/9/18（五）20:00於 Legacy TERA",
+      "concert_location": "",
+      "sale_time": "2026/7/5（日）12:00",
+      "ticket_platform": "KKTIX 、全家便利商店FamiPort",
+      "ticket_platform_links": [
+        {
+          "name": "KKTIX",
+          "url": "https://kklivetw.kktix.cc/events/pdiewc"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間與地點：",
+        "台中場：2026/9/5（六）19:00於 Legacy Taichung",
+        "高雄場：2026/9/12（六）19:00於 LIVE WAREHOUSE",
+        "台北場：2026/9/18（五）20:00於 Legacy TERA",
+        "售票時間：2026/7/5（日）12:00",
+        "票價：快速通關券NT$2380 / 入場券NT$1880 / 現場券NT$2080（若預售票券完售即不開放現場售票）",
+        "售票平台： KKTIX 、全家便利商店FamiPort"
       ]
     },
     {
