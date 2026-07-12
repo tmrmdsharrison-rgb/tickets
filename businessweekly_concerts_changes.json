@@ -1,459 +1,224 @@
 {
   "source_url": "https://www.businessweekly.com.tw/style/blog/3019879#XG",
-  "scraped_at": "2026-07-08T05:37:30",
-  "previous_scraped_at": "2026-07-05T06:25:16",
+  "scraped_at": "2026-07-12T05:43:15",
+  "previous_scraped_at": "2026-07-08T05:37:30",
   "summary": {
-    "added": 6,
-    "updated": 2,
-    "removed": 6
+    "added": 4,
+    "updated": 1,
+    "removed": 1
   },
   "added": [
     {
-      "performer": "AGAINST THE CURRENT",
-      "concert_date_from_table": "2027/1/15",
-      "location_from_table": "TICC台北國際會議中心",
-      "sale_status": "7/10全面啟售",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#AGAINST THE CURRENT",
-      "detail_title": "台北演唱會｜逆流而上樂團「AGAINST THE CURRENT : TILL DEATH & BACK TOUR」",
-      "concert_time": "2027/1/15（五）19:30",
-      "concert_location": "TICC台北國際會議中心",
-      "sale_time": "藝人官方預售：2026/7/7（二）12:00～2026/7/7（二）23:59\n星展萬事達卡卡友預售票：2026/7/8（三）10:00～2026/7/9（四）10:00\nLive Nation Taiwan會員預售：2026/7/9（四）12:00～2026/7/9（四）23:59\n正式開賣：2026/7/10（五）12:00",
-      "ticket_platform": "拓元售票系統 、 Live Nation Taiwan官方網站",
+      "performer": "Do As Infinity",
+      "concert_date_from_table": "9/20",
+      "location_from_table": "Zepp New Taipei",
+      "sale_status": "7/11開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#Do As Infinity",
+      "detail_title": "台北演唱會｜Do As Infinity「27th Anniversary LIVE TOUR IN TAIPEI」",
+      "concert_time": "2026/9/20（日）17:00（實際演出時間以現場公告為準）",
+      "concert_location": "Zepp New Taipei",
+      "sale_time": "2026/7/11（六）12:00",
+      "ticket_platform": "拓元售票系統",
       "ticket_platform_links": [
         {
           "name": "拓元售票系統",
-          "url": "https://tixcraft.com/activity/detail/27_atc"
-        },
-        {
-          "name": "Live Nation Taiwan官方網站",
-          "url": "https://www.livenation.com.tw/en/event/against-the-current-till-death-and-back-tour-taipei-tickets-edp1685117"
+          "url": "https://tixcraft.com/activity/detail/26_dai0920"
         }
       ],
       "raw_detail_items": [
-        "演唱會時間：2027/1/15（五）19:30",
+        "演唱會時間：2026/9/20（日）17:00（實際演出時間以現場公告為準）",
+        "演唱會地點：Zepp New Taipei",
+        "售票時間：2026/7/11（六）12:00",
+        "票價：一樓站席NT$4200 / 二樓座席NT$3900 / 二樓站席NT$3200 / 身心障礙者優惠席NT$2100（1、2樓站席將依票面序號整隊入場）",
+        "售票平台： 拓元售票系統"
+      ]
+    },
+    {
+      "performer": "HER VOICE",
+      "concert_date_from_table": "9/5",
+      "location_from_table": "高雄巨蛋",
+      "sale_status": "7/16全面開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#HER VOICE",
+      "detail_title": "高雄拼盤演唱會｜薇娟 / 鄭恩地 / 艾怡良 / 葛仲珊 / Karencici「HER VOICE—無所畏懼的女聲」",
+      "concert_time": "2026/9/5（六）19:30",
+      "concert_location": "高雄巨蛋",
+      "sale_time": "遠傳電信 / friDay影音優先購：2026/7/14（二）12:00–18:00\nSpotify Premium會員優先購：2026/7/15（三）12:00–18:00\n正式啟售：2026/7/16（四）12:00",
+      "ticket_platform": "Ticket Plus遠大售票系統",
+      "ticket_platform_links": [
+        {
+          "name": "Ticket Plus遠大售票系統",
+          "url": "https://ticketplus.com.tw/activity/f8ea441fa03348699e42a39bf8379b99"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：2026/9/5（六）19:30",
+        "演唱會地點： 高雄巨蛋",
+        "售票時間：",
+        "遠傳電信 / friDay影音優先購：2026/7/14（二）12:00–18:00",
+        "Spotify Premium會員優先購：2026/7/15（三）12:00–18:00",
+        "正式啟售：2026/7/16（四）12:00",
+        "票價：NT$5680 / 5280 / 4880 / 4280 / 3880 / 2880 / 2280 / 1680 / 1940（輪椅身障及陪同票＆非輪椅身障及陪同票）",
+        "售票平台： Ticket Plus遠大售票系統"
+      ]
+    },
+    {
+      "performer": "Khalid",
+      "concert_date_from_table": "12/7",
+      "location_from_table": "TICC台北國際會議中心",
+      "sale_status": "7/16全面啟售",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#Khalid",
+      "detail_title": "台北演唱會｜Khalid「It's Always Summer Somewhere Tour in Taipei」",
+      "concert_time": "2026/12/7（一）19:30",
+      "concert_location": "TICC台北國際會議中心",
+      "sale_time": "藝人預售：2026/7/13（一）12:00至2026/7/13（一）23:59\n星展萬事達卡卡友預售：2026/7/14（二）10:00至2026/7/15（三）10:00\nLive Nation Taiwan會員預售：2026/7/15（三）12:00至2026/7/15（三）23:59\n正式開賣：2026/7/16（四）12:00",
+      "ticket_platform": "拓元售票系統 、LIVE NATION TAIWAN官網",
+      "ticket_platform_links": [
+        {
+          "name": "拓元售票系統",
+          "url": "https://tixcraft.com/activity/detail/26_khalid"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：2026/12/7（一）19:30",
         "演唱會地點： TICC台北國際會議中心",
         "售票時間：",
-        "藝人官方預售：2026/7/7（二）12:00～2026/7/7（二）23:59",
-        "星展萬事達卡卡友預售票：2026/7/8（三）10:00～2026/7/9（四）10:00",
-        "Live Nation Taiwan會員預售：2026/7/9（四）12:00～2026/7/9（四）23:59",
-        "正式開賣：2026/7/10（五）12:00",
+        "藝人預售：2026/7/13（一）12:00至2026/7/13（一）23:59",
+        "星展萬事達卡卡友預售：2026/7/14（二）10:00至2026/7/15（三）10:00",
+        "Live Nation Taiwan會員預售：2026/7/15（三）12:00至2026/7/15（三）23:59",
+        "正式開賣：2026/7/16（四）12:00",
         "票價：",
-        "SOUNDCHECK VIP PACKAGE：NT$7300",
-        "一般票券：NT$5500 / 2100",
-        "身障優惠票（陪同票）：NT$1650",
-        "售票平台： 拓元售票系統 、 Live Nation Taiwan官方網站"
+        "限量VIP套票：NT$14900 / 9050",
+        "一般票券：NT$2980起至NT$7500 / 身障優惠票（陪同票）NT$2290",
+        "售票平台： 拓元售票系統 、LIVE NATION TAIWAN官網"
       ]
     },
     {
-      "performer": "FKJ",
-      "concert_date_from_table": "12/8",
-      "location_from_table": "Zepp New Taipei",
-      "sale_status": "7/10全面啟售",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#FKJ",
-      "detail_title": "台北演唱會｜FKJ「Tyber Tour」",
-      "concert_time": "2026/12/8（二）20:00",
-      "concert_location": "Zepp New Taipei",
-      "sale_time": "Artist Presale：2026/7/6（一）11:00～2026/7/6（一）23:59\n星展萬事達卡卡友預售票：2026/7/7（二）10:00～2026/7/8（三）10:00\nLive Nation Taiwan會員預售：2026/7/9（四）11:00～2026/7/9（四）23:59\n正式開賣：2026/7/10（五）11:00",
-      "ticket_platform": "拓元售票系統 、 Live Nation Taiwan官方網站",
-      "ticket_platform_links": [
-        {
-          "name": "拓元售票系統",
-          "url": "https://tixcraft.com/activity/detail/26_fkj"
-        },
-        {
-          "name": "Live Nation Taiwan官方網站",
-          "url": "http://google.com/search?q=FKJ「Tyber+Tour」&oq=FKJ「Tyber+Tour」&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKAB0gEHMjEwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/12/8（二）20:00",
-        "演唱會地點： Zepp New Taipei",
-        "售票時間：",
-        "Artist Presale：2026/7/6（一）11:00～2026/7/6（一）23:59",
-        "星展萬事達卡卡友預售票：2026/7/7（二）10:00～2026/7/8（三）10:00",
-        "Live Nation Taiwan會員預售：2026/7/9（四）11:00～2026/7/9（四）23:59",
-        "正式開賣：2026/7/10（五）11:00",
-        "票價：NT$3680 / 2580 / 身障優惠票（陪同票）1440",
-        "售票平台： 拓元售票系統 、 Live Nation Taiwan官方網站"
-      ]
-    },
-    {
-      "performer": "KPOP PRIME",
-      "concert_date_from_table": "10/4",
-      "location_from_table": "林口體育館",
-      "sale_status": "7/8-9抽選登記",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#KPOP PRIME",
-      "detail_title": "台北拼盤演唱會｜SUPER JUNIOR-D&E、SUHO、權恩妃「2026 KPOP PRIME」",
-      "concert_time": "2026/10/4（日）18:00",
-      "concert_location": "國立體育大學綜合體育館（林口體育館）",
-      "sale_time": "抽籤登記時間：7/8（三）12:00～7/9（四）18:00\n抽籤結果公布：7/10（五）12:00\n中籤者繳費時間：7/10（五）12:00～7/11（六）11:59",
-      "ticket_platform": "寬宏售票系統",
-      "ticket_platform_links": [
-        {
-          "name": "寬宏售票系統",
-          "url": "https://kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1C2RGU6"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/10/4（日）18:00",
-        "演唱會地點： 國立體育大學綜合體育館（林口體育館）",
-        "售票時間：",
-        "抽籤登記時間：7/8（三）12:00～7/9（四）18:00",
-        "抽籤結果公布：7/10（五）12:00",
-        "中籤者繳費時間：7/10（五）12:00～7/11（六）11:59",
-        "票價：5980 / 5680 / 4980 / 4680 / 3980 / 2980",
-        "售票平台： 寬宏售票系統"
-      ]
-    },
-    {
-      "performer": "T.O.P",
-      "concert_date_from_table": "8/22",
-      "location_from_table": "林口體育館",
-      "sale_status": "尚未公告",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#T.O.P林口",
-      "detail_title": "台北演唱會｜T.O.P「PRE-STUDIO 2026」",
-      "concert_time": "2026/8/22（六）",
-      "concert_location": "國立體育大學綜合體育館（林口體育館）",
-      "sale_time": "待公告",
-      "ticket_platform": "待公告",
-      "ticket_platform_links": [],
-      "raw_detail_items": [
-        "演唱會時間：2026/8/22（六）",
-        "演唱會地點： 國立體育大學綜合體育館（林口體育館）",
-        "售票時間：待公告",
-        "票價：待公告",
-        "售票平台：待公告"
-      ]
-    },
-    {
-      "performer": "T.O.P",
-      "concert_date_from_table": "12/19",
-      "location_from_table": "高雄巨蛋",
+      "performer": "NCT 127",
+      "concert_date_from_table": "2027/1/2",
+      "location_from_table": "台北小巨蛋",
       "sale_status": "待公告",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#T.O.P高雄",
-      "detail_title": "高雄演唱會｜T.O.P「PRE-STUDIO 2026」",
-      "concert_time": "2026/12/19（六）",
-      "concert_location": "高雄巨蛋",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#NCT 127",
+      "detail_title": "台北演唱會｜NCT 127「5TH TOUR NEO CITY : THE RED LINE」",
+      "concert_time": "2027/1/2（六）",
+      "concert_location": "台北小巨蛋",
       "sale_time": "待公告",
       "ticket_platform": "待公告",
       "ticket_platform_links": [],
       "raw_detail_items": [
-        "演唱會時間：2026/12/19（六）",
-        "演唱會地點： 高雄巨蛋",
+        "演唱會時間：2027/1/2（六）",
+        "演唱會地點： 台北小巨蛋",
         "售票時間：待公告",
         "票價：待公告",
         "售票平台：待公告"
-      ]
-    },
-    {
-      "performer": "惠利",
-      "concert_date_from_table": "9/5",
-      "location_from_table": "TICC台北國際會議中心",
-      "sale_status": "7/10",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#惠利",
-      "detail_title": "台北粉絲見面會｜李惠利「HYERIDE」亞洲巡迴粉絲見面會台北最終站",
-      "concert_time": "2026/9/5（六）",
-      "concert_location": "TICC台北國際會議中心",
-      "sale_time": "2026/7/10（五）12:00",
-      "ticket_platform": "寬宏售票系統",
-      "ticket_platform_links": [],
-      "raw_detail_items": [
-        "演唱會時間：2026/9/5（六）",
-        "演唱會地點：TICC台北國際會議中心",
-        "售票時間：2026/7/10（五）12:00",
-        "票價：待公告",
-        "售票平台：寬宏售票系統"
       ]
     }
   ],
   "updated": [
     {
-      "key": "SUPER JUNIOR-83z | https://www.businessweekly.com.tw/style/blog/3019879#SUPER JUNIOR-83z高雄 | 10/3 | 高雄流行音樂中心",
+      "key": "木村拓哉 | https://www.businessweekly.com.tw/style/blog/3019879#木村拓哉 | 11/13-14 | 台北流行音樂中心",
       "before": {
-        "performer": "SUPER JUNIOR-83z",
-        "concert_date_from_table": "10/3",
-        "location_from_table": "高雄流行音樂中心",
-        "sale_status": "待公告",
-        "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#SUPER JUNIOR-83z高雄",
-        "detail_title": "高雄演唱會｜SUPER JUNIOR-83z FANCON TOUR「1983」IN KAOHSIUNG",
-        "concert_time": "2026/10/3（六）",
-        "concert_location": "高雄流行音樂中心",
-        "sale_time": "待公告",
-        "ticket_platform": "待公告",
-        "ticket_platform_links": [],
-        "raw_detail_items": [
-          "演唱會時間：2026/10/3（六）",
-          "演唱會地點： 高雄流行音樂中心",
-          "售票時間：待公告",
-          "票價：待公告",
-          "售票平台：待公告"
-        ]
-      },
-      "after": {
-        "performer": "SUPER JUNIOR-83z",
-        "concert_date_from_table": "10/3",
-        "location_from_table": "高雄流行音樂中心",
-        "sale_status": "待公告",
-        "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#SUPER JUNIOR-83z高雄",
-        "detail_title": "高雄粉絲見面會｜SUPER JUNIOR-83z FANCON TOUR「1983」IN KAOHSIUNG",
-        "concert_time": "2026/10/3（六）",
-        "concert_location": "高雄流行音樂中心",
-        "sale_time": "E.L.F. Membership Weverse會員預售登記：2026/7/6（一）13:00～2026/7/11（六）23:59\nE.L.F. Membership Weverse會員預售：2026/7/27（一）12:00～2026/7/28（二）12:00\n台新銀行Richart卡友優先購：2026/7/28（二）14:00～18:00\n公開發售：2026/7/29（三）12:00",
-        "ticket_platform": "Weverse 、KKTIX",
+        "performer": "木村拓哉",
+        "concert_date_from_table": "11/13-14",
+        "location_from_table": "台北流行音樂中心",
+        "sale_status": "7/6-8登記抽選",
+        "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#木村拓哉",
+        "detail_title": "台北演唱會｜木村拓哉「TAKUYA KIMURA Live Tour 2026 Checkpoint」海外巡演",
+        "concert_time": "2026/11/13（五）19:00\n2026/11/14（六）18:00",
+        "concert_location": "台北流行音樂中心表演廳",
+        "sale_time": "台灣在住登記抽選：2026/7/6（一）13:00～2026/7/8（三）13:00\n全球登記抽選：2026/7/13（一）13:00～2026/7/15（三）13:00\n一般販售：2026/7/29（三）12:00\n備註：本活動採全實名制與預約抽選制售票，一般販售階段僅販售抽選清票後之剩餘票券。",
+        "ticket_platform": "Ticket Plus遠大售票系統",
         "ticket_platform_links": [
           {
-            "name": "Weverse",
-            "url": "https://weverse.io/superjunior/notice/37145"
+            "name": "Ticket Plus遠大售票系統",
+            "url": "https://ticketplus.com.tw/activity/39e011c895a371c40416497f696652bd"
           }
         ],
         "raw_detail_items": [
-          "演唱會時間：2026/10/3（六）",
-          "演唱會地點： 高雄流行音樂中心",
+          "演唱會時間：",
+          "2026/11/13（五）19:00",
+          "2026/11/14（六）18:00",
+          "演唱會地點： 台北流行音樂中心表演廳",
           "售票時間：",
-          "E.L.F. Membership Weverse會員預售登記：2026/7/6（一）13:00～2026/7/11（六）23:59",
-          "E.L.F. Membership Weverse會員預售：2026/7/27（一）12:00～2026/7/28（二）12:00",
-          "台新銀行Richart卡友優先購：2026/7/28（二）14:00～18:00",
-          "公開發售：2026/7/29（三）12:00",
-          "票價：NT$6480 / 6080 / 5680 / 4680 / 3680 / 2340（愛心席）",
-          "售票平台： Weverse 、KKTIX"
-        ]
-      },
-      "changes": {
-        "detail_title": {
-          "before": "高雄演唱會｜SUPER JUNIOR-83z FANCON TOUR「1983」IN KAOHSIUNG",
-          "after": "高雄粉絲見面會｜SUPER JUNIOR-83z FANCON TOUR「1983」IN KAOHSIUNG"
-        },
-        "sale_time": {
-          "before": "待公告",
-          "after": "E.L.F. Membership Weverse會員預售登記：2026/7/6（一）13:00～2026/7/11（六）23:59\nE.L.F. Membership Weverse會員預售：2026/7/27（一）12:00～2026/7/28（二）12:00\n台新銀行Richart卡友優先購：2026/7/28（二）14:00～18:00\n公開發售：2026/7/29（三）12:00"
-        },
-        "ticket_platform": {
-          "before": "待公告",
-          "after": "Weverse 、KKTIX"
-        },
-        "ticket_platform_links": {
-          "before": [],
-          "after": [
-            {
-              "name": "Weverse",
-              "url": "https://weverse.io/superjunior/notice/37145"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "key": "SUPER JUNIOR-83z桃園 | https://www.businessweekly.com.tw/style/blog/3019879#SUPER JUNIOR-83z桃園 | 11/21 | 桃園市立田徑場",
-      "before": {
-        "performer": "SUPER JUNIOR-83z桃園",
-        "concert_date_from_table": "11/21",
-        "location_from_table": "桃園市立田徑場",
-        "sale_status": "待公告",
-        "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#SUPER JUNIOR-83z桃園",
-        "detail_title": "桃園演唱會｜SUPER JUNIOR-83z FANCON TOUR「1983」IN TAIPEI",
-        "concert_time": "2026/11/21（六）",
-        "concert_location": "桃園市立田徑場",
-        "sale_time": "待公告",
-        "ticket_platform": "待公告",
-        "ticket_platform_links": [],
-        "raw_detail_items": [
-          "演唱會時間：2026/11/21（六）",
-          "演唱會地點： 桃園市立田徑場",
-          "售票時間：待公告",
-          "票價：待公告",
-          "售票平台：待公告"
+          "台灣在住登記抽選：2026/7/6（一）13:00～2026/7/8（三）13:00",
+          "全球登記抽選：2026/7/13（一）13:00～2026/7/15（三）13:00",
+          "一般販售：2026/7/29（三）12:00",
+          "備註：本活動採全實名制與預約抽選制售票，一般販售階段僅販售抽選清票後之剩餘票券。",
+          "票價：NT$5800 / 4800 / 4200 / 3800 / 2900 / 2100",
+          "售票平台： Ticket Plus遠大售票系統"
         ]
       },
       "after": {
-        "performer": "SUPER JUNIOR-83z桃園",
-        "concert_date_from_table": "11/21",
-        "location_from_table": "桃園市立田徑場",
-        "sale_status": "待公告",
-        "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#SUPER JUNIOR-83z桃園",
-        "detail_title": "桃園粉絲見面會｜SUPER JUNIOR-83z FANCON TOUR「1983」IN TAIPEI",
-        "concert_time": "2026/11/21（六）",
-        "concert_location": "桃園市立田徑場",
-        "sale_time": "待公告",
-        "ticket_platform": "待公告",
-        "ticket_platform_links": [],
+        "performer": "木村拓哉",
+        "concert_date_from_table": "11/13-14",
+        "location_from_table": "台北流行音樂中心",
+        "sale_status": "7/13-15全球登記抽選",
+        "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#木村拓哉",
+        "detail_title": "台北演唱會｜木村拓哉「TAKUYA KIMURA Live Tour 2026 Checkpoint」海外巡演",
+        "concert_time": "2026/11/13（五）19:00\n2026/11/14（六）18:00",
+        "concert_location": "台北流行音樂中心表演廳",
+        "sale_time": "台灣在住登記抽選：2026/7/6（一）13:00～2026/7/8（三）13:00\n全球登記抽選：2026/7/13（一）13:00～2026/7/15（三）13:00\n一般販售：2026/7/29（三）12:00\n備註：本活動採全實名制與預約抽選制售票，一般販售階段僅販售抽選清票後之剩餘票券。",
+        "ticket_platform": "Ticket Plus遠大售票系統",
+        "ticket_platform_links": [
+          {
+            "name": "Ticket Plus遠大售票系統",
+            "url": "https://ticketplus.com.tw/activity/39e011c895a371c40416497f696652bd"
+          }
+        ],
         "raw_detail_items": [
-          "演唱會時間：2026/11/21（六）",
-          "演唱會地點： 桃園市立田徑場",
-          "售票時間：待公告",
-          "票價：待公告",
-          "售票平台：待公告"
+          "演唱會時間：",
+          "2026/11/13（五）19:00",
+          "2026/11/14（六）18:00",
+          "演唱會地點： 台北流行音樂中心表演廳",
+          "售票時間：",
+          "台灣在住登記抽選：2026/7/6（一）13:00～2026/7/8（三）13:00",
+          "全球登記抽選：2026/7/13（一）13:00～2026/7/15（三）13:00",
+          "一般販售：2026/7/29（三）12:00",
+          "備註：本活動採全實名制與預約抽選制售票，一般販售階段僅販售抽選清票後之剩餘票券。",
+          "票價：NT$5800 / 4800 / 4200 / 3800 / 2900 / 2100",
+          "售票平台： Ticket Plus遠大售票系統"
         ]
       },
       "changes": {
-        "detail_title": {
-          "before": "桃園演唱會｜SUPER JUNIOR-83z FANCON TOUR「1983」IN TAIPEI",
-          "after": "桃園粉絲見面會｜SUPER JUNIOR-83z FANCON TOUR「1983」IN TAIPEI"
+        "sale_status": {
+          "before": "7/6-8登記抽選",
+          "after": "7/13-15全球登記抽選"
         }
       }
     }
   ],
   "removed": [
     {
-      "performer": "Henry Moodie",
-      "concert_date_from_table": "9/28",
-      "location_from_table": "LIVE WAREHOUSE",
-      "sale_status": "7/3全面啟售",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#Henry Moodie",
-      "detail_title": "高雄演唱會｜Henry Moodie「Mood Swings World Tour」",
-      "concert_time": "2026/9/28（一）19:30",
-      "concert_location": "LIVE WAREHOUSE",
-      "sale_time": "藝人預售（Artist Presale）：2026/6/30（二）10:00~23:59\n星展萬事達卡卡友預售：2026/7/1（三）10:00~2026/7/2（四）10:00\nLive Nation Taiwan會員預售：2026/7/2（四）12:00~23:59\n正式開賣：2026/7/3（五）12:00",
-      "ticket_platform": "拓元售票系統 （Live Nation Taiwan會員預購須由主辦單位官網活動頁面進入）",
+      "performer": "ITZY",
+      "concert_date_from_table": "9/5",
+      "location_from_table": "台北小巨蛋",
+      "sale_status": "7/8全面啟售",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#ITZY",
+      "detail_title": "台北演唱會｜ITZY「ITZY 3RD WORLD TOUR ⟨TUNNEL VISION⟩ in TAIPEI」",
+      "concert_time": "2026/9/5（六）18:00",
+      "concert_location": "台北小巨蛋",
+      "sale_time": "優先購票登記：2026/6/28（日）20:00～2026/6/30（二）20:00\nMIDZY MEMBERSHIP PRESALE優先購票：2026/7/6（一）9:00～12:00\n星展萬事達卡卡友預售票：2026/7/6（一）14:00～2026/7/7（二）1:59\nLive Nation Taiwan會員預售：2026/7/7（二）12:00～23:59\n正式開賣：2026/7/8（三）12:00\n台灣大哥大 / MyVideo會員獨享購票專區：2026/7/8（三）12:00～2026/7/11（六）12:00",
+      "ticket_platform": "拓元售票系統 、Live Nation Taiwan官網",
       "ticket_platform_links": [
         {
           "name": "拓元售票系統",
-          "url": "https://tixcraft.com/activity/detail/26_henry"
+          "url": "https://tixcraft.com/activity/detail/26_itzytpe"
         }
       ],
       "raw_detail_items": [
-        "演唱會時間：2026/9/28（一）19:30",
-        "演唱會地點： LIVE WAREHOUSE",
+        "演唱會時間：2026/9/5（六）18:00",
+        "演唱會地點： 台北小巨蛋",
         "售票時間：",
-        "藝人預售（Artist Presale）：2026/6/30（二）10:00~23:59",
-        "星展萬事達卡卡友預售：2026/7/1（三）10:00~2026/7/2（四）10:00",
-        "Live Nation Taiwan會員預售：2026/7/2（四）12:00~23:59",
-        "正式開賣：2026/7/3（五）12:00",
+        "優先購票登記：2026/6/28（日）20:00～2026/6/30（二）20:00",
+        "MIDZY MEMBERSHIP PRESALE優先購票：2026/7/6（一）9:00～12:00",
+        "星展萬事達卡卡友預售票：2026/7/6（一）14:00～2026/7/7（二）1:59",
+        "Live Nation Taiwan會員預售：2026/7/7（二）12:00～23:59",
+        "正式開賣：2026/7/8（三）12:00",
+        "台灣大哥大 / MyVideo會員獨享購票專區：2026/7/8（三）12:00～2026/7/11（六）12:00",
         "票價：",
-        "一般站區NT$2280",
-        "身障優惠/陪同票NT$1140",
-        "VIP套票NT$5680 / 4680",
-        "售票平台： 拓元售票系統 （Live Nation Taiwan會員預購須由主辦單位官網活動頁面進入）"
-      ]
-    },
-    {
-      "performer": "KARA",
-      "concert_date_from_table": "8/22",
-      "location_from_table": "台大體育館",
-      "sale_status": "7/5",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#KARA",
-      "detail_title": "台北粉絲見面會｜KARA「2026 KARA TAIPEI FANMEETING Hello Kamilia」",
-      "concert_time": "2026/8/22（六）17:00進場、18:00開演",
-      "concert_location": "國立台灣大學綜合體育館",
-      "sale_time": "7/5（日）12:00",
-      "ticket_platform": "年代售票",
-      "ticket_platform_links": [
-        {
-          "name": "年代售票",
-          "url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1C3JVT0"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/8/22（六）17:00進場、18:00開演",
-        "演唱會地點： 國立台灣大學綜合體育館",
-        "售票時間：7/5（日）12:00",
-        "票價：",
-        "全票票價＋福利券NT$6700 / 5700 / 4300（內含NT$20福利券）",
-        "一般全票NT$6680 / 5680 / 4280",
-        "售票平台： 年代售票"
-      ]
-    },
-    {
-      "performer": "P1Harmony",
-      "concert_date_from_table": "7/18",
-      "location_from_table": "新北市工商展覽中心",
-      "sale_status": "7/3",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#P1Harmony",
-      "detail_title": "台北演唱會｜P1Harmony「2026 P1Harmony ASIA STAGE ［BE UNIQUE］」",
-      "concert_time": "2026/7/18（六）17:00",
-      "concert_location": "新北市工商展覽中心",
-      "sale_time": "2026/7/3（五）12:00",
-      "ticket_platform": "年代售票系統 、各大便利商店機台",
-      "ticket_platform_links": [
-        {
-          "name": "年代售票系統",
-          "url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1BWJOL5"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/7/18（六）17:00",
-        "演唱會地點： 新北市工商展覽中心",
-        "售票時間：2026/7/3（五）12:00",
-        "開賣票價：原價票＋福利券NT$6000 / 5300（內含NT$20福利券）一般原價票NT$5980 / 5280",
-        "售票平台： 年代售票系統 、各大便利商店機台"
-      ]
-    },
-    {
-      "performer": "洪佩瑜",
-      "concert_date_from_table": "9/5\n9/12\n9/18",
-      "location_from_table": "Legacy Taichung\nLIVE WAREHOUSE\nLegacy TERA",
-      "sale_status": "7/5",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#洪佩瑜",
-      "detail_title": "台北、台中、高雄巡迴演唱會｜洪佩瑜「開了又開」",
-      "concert_time": "演唱會時間與地點：\n台中場：2026/9/5（六）19:00於 Legacy Taichung\n高雄場：2026/9/12（六）19:00於 LIVE WAREHOUSE\n台北場：2026/9/18（五）20:00於 Legacy TERA",
-      "concert_location": "",
-      "sale_time": "2026/7/5（日）12:00",
-      "ticket_platform": "KKTIX 、全家便利商店FamiPort",
-      "ticket_platform_links": [
-        {
-          "name": "KKTIX",
-          "url": "https://kklivetw.kktix.cc/events/pdiewc"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間與地點：",
-        "台中場：2026/9/5（六）19:00於 Legacy Taichung",
-        "高雄場：2026/9/12（六）19:00於 LIVE WAREHOUSE",
-        "台北場：2026/9/18（五）20:00於 Legacy TERA",
-        "售票時間：2026/7/5（日）12:00",
-        "票價：快速通關券NT$2380 / 入場券NT$1880 / 現場券NT$2080（若預售票券完售即不開放現場售票）",
-        "售票平台： KKTIX 、全家便利商店FamiPort"
-      ]
-    },
-    {
-      "performer": "羊文学",
-      "concert_date_from_table": "10/24",
-      "location_from_table": "LIVE WAREHOUSE",
-      "sale_status": "7/4開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#羊文学",
-      "detail_title": "高雄演唱會｜羊文学Hitsujibungaku TOUR 2026「SU———HA———」",
-      "concert_time": "2026/10/24（六）17:00進場、18:30開演",
-      "concert_location": "LIVE WAREHOUSE",
-      "sale_time": "2026/7/4（六）12:00開賣",
-      "ticket_platform": "KKTIX網站 、KKTIX App、全台全家便利商店FamiPort",
-      "ticket_platform_links": [
-        {
-          "name": "KKTIX網站",
-          "url": "https://baodaorecords.kktix.cc/events/58eae147"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/10/24（六）17:00進場、18:30開演",
-        "演唱會地點： LIVE WAREHOUSE",
-        "售票時間：2026/7/4（六）12:00開賣",
-        "票價：預售票NT$2200 / 預售愛心票NT$1100（全場站席，依票面序號入場）",
-        "售票平台： KKTIX網站 、KKTIX App、全台全家便利商店FamiPort"
-      ]
-    },
-    {
-      "performer": "藤井風",
-      "concert_date_from_table": "10/31",
-      "location_from_table": "高雄國家體育場",
-      "sale_status": "6/30釋出",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#藤井風",
-      "detail_title": "高雄演唱會｜藤井風Fujii Kaze Prema世界巡迴演唱會高雄站",
-      "concert_time": "2026/10/31（六）",
-      "concert_location": "高雄國家體育場",
-      "sale_time": "2026/6/20（六）12:00開賣\n2026/6/30（二）12:00釋出未完成結帳及退回票券",
-      "ticket_platform": "KKTIX網站 、全家便利商店FamiPort",
-      "ticket_platform_links": [
-        {
-          "name": "KKTIX網站",
-          "url": "https://kklivetw.kktix.cc/events/34473ba4"
-        }
-      ],
-      "raw_detail_items": [
-        "演出時間：2026/10/31（六）",
-        "演出地點： 高雄國家體育場",
-        "售票時間：",
-        "2026/6/20（六）12:00開賣",
-        "2026/6/30（二）12:00釋出未完成結帳及退回票券",
-        "票價：NT$5800 / 4800 / 3800 / 2800 / 1800（全場座席）",
-        "售票平台： KKTIX網站 、全家便利商店FamiPort"
+        "VIP套票NT$6880（含SOUNDCHECK PARTY、周邊商品優先購買權、VIP優先入場、VIP紀念吊牌及掛繩、VIP獨家紀念禮一份）",
+        "一般票NT$5880 / 4880 / 3880 / 3380 / 2880 / 800",
+        "身障優惠/陪同票NT$400",
+        "售票平台： 拓元售票系統 、Live Nation Taiwan官網"
       ]
     }
   ]
