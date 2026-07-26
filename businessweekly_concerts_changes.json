@@ -1,74 +1,42 @@
 {
   "source_url": "https://www.businessweekly.com.tw/style/blog/3019879#XG",
-  "scraped_at": "2026-07-22T05:35:15",
-  "previous_scraped_at": "2026-07-19T05:37:58",
+  "scraped_at": "2026-07-26T05:46:51",
+  "previous_scraped_at": "2026-07-22T05:35:15",
   "summary": {
-    "added": 0,
+    "added": 1,
     "updated": 0,
-    "removed": 2
+    "removed": 0
   },
-  "added": [],
-  "updated": [],
-  "removed": [
+  "added": [
     {
-      "performer": "中島健人",
-      "concert_date_from_table": "8/29-30",
-      "location_from_table": "Zepp New Taipei",
-      "sale_status": "登記抽選中",
-      "detail_url": "",
-      "detail_title": "新北演唱會｜中島健人「IDOL1ST KENTY」ASIA TOUR 2026 in TAIPEI",
-      "concert_time": "2026/8/29（六）18:00\n2026/8/30（日）15:00",
-      "concert_location": "Zepp New Taipei",
-      "sale_time": "台灣在住登記抽選：2026/4/27（一）13:00～2026/4/29（三）13:00\n全球登記抽選：2026/5/4（一）13:00～2026/5/6（三）13:00\n一般販售：2026/5/19（二）12:00（若抽選階段完售則不實施）\nVIP PASS加購登記抽選：2026/5/25（一）13:00 ～2026/5/26（二）13:00",
-      "ticket_platform": "Ticket Plus遠大售票系統 （實名抽選制）",
+      "performer": "拍謝少年",
+      "concert_date_from_table": "10/10",
+      "location_from_table": "高雄流行音樂中心海音館",
+      "sale_status": "7/27全面啟售",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#拍謝少年",
+      "detail_title": "高雄演唱會｜拍謝少年「噪音特區Noise Zone」2026 Takao Rock打狗祭：Hi-ing 5",
+      "concert_time": "2026/10/10（六）19:00",
+      "concert_location": "高雄流行音樂中心海音館",
+      "sale_time": "粉虱通訊訂閱會員優先購：2026/7/25（六）14:00 - 23:59\n高流會員95折優先購：2026/7/26（日）14:00 - 23:59\n全面啟售：2026/7/27（一）14:00",
+      "ticket_platform": "KKTIX 、全家便利商店FamiPort",
       "ticket_platform_links": [
         {
-          "name": "Ticket Plus遠大售票系統",
-          "url": "https://reurl.cc/2aK014"
+          "name": "KKTIX",
+          "url": "https://kpmc.kktix.cc/events/hi-ing5?tapeID=kp06HI3m2"
         }
       ],
       "raw_detail_items": [
-        "演唱會時間：",
-        "2026/8/29（六）18:00",
-        "2026/8/30（日）15:00",
-        "演唱會地點： Zepp New Taipei",
+        "演出時間：2026/10/10（六）19:00",
+        "演出地點： 高雄流行音樂中心海音館",
         "售票時間：",
-        "台灣在住登記抽選：2026/4/27（一）13:00～2026/4/29（三）13:00",
-        "全球登記抽選：2026/5/4（一）13:00～2026/5/6（三）13:00",
-        "一般販售：2026/5/19（二）12:00（若抽選階段完售則不實施）",
-        "VIP PASS加購登記抽選：2026/5/25（一）13:00 ～2026/5/26（二）13:00",
-        "票價：1F站席 NT$3200 / 2F座席A區 NT$3200 / 2F座席B區 NT$3000 / 2F站席 NT$2800 / 身心障礙優惠席 NT$1600VIP PASS加購價 NT$2400（限持有有效門票者登記）",
-        "售票平台： Ticket Plus遠大售票系統 （實名抽選制）"
-      ]
-    },
-    {
-      "performer": "劉若英",
-      "concert_date_from_table": "7/18",
-      "location_from_table": "高雄巨蛋",
-      "sale_status": "7/18",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#劉若英",
-      "detail_title": "高雄演唱會｜劉若英「飛行日」2026巡迴演唱會高雄站",
-      "concert_time": "2026/9/12（六）18:30",
-      "concert_location": "高雄巨蛋",
-      "sale_time": "台新卡友專區優先購票：2026/7/18（六）11:00（限區限量）\n全區全面開賣：2026/7/18（六）12:00",
-      "ticket_platform": "拓元售票系統",
-      "ticket_platform_links": [
-        {
-          "name": "拓元售票系統",
-          "url": "https://tixcraft.com/activity/detail/26_reneliu"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/9/12（六）18:30",
-        "演唱會地點： 高雄巨蛋",
-        "售票時間：",
-        "台新卡友專區優先購票：2026/7/18（六）11:00（限區限量）",
-        "全區全面開賣：2026/7/18（六）12:00",
-        "票價：",
-        "一般票：NT$4500 / 4200 / 3800 / 3200 / 2800 / 2500 / 2200 / 1600 / 800（全場為對號座席）",
-        "身障票：非輪椅身障席NT$1900 / 輪椅身障席NT$400",
-        "售票系統： 拓元售票系統"
+        "粉虱通訊訂閱會員優先購：2026/7/25（六）14:00 - 23:59",
+        "高流會員95折優先購：2026/7/26（日）14:00 - 23:59",
+        "全面啟售：2026/7/27（一）14:00",
+        "票價：NT$ 2680 / 2480 / 1880 / 1340（身障票）/ 1240（身障票）/ 980 / 4人套票每張2600（限1F搖滾區）",
+        "售票平台： KKTIX 、全家便利商店FamiPort"
       ]
     }
-  ]
+  ],
+  "updated": [],
+  "removed": []
 }

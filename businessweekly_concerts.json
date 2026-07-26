@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.businessweekly.com.tw/style/blog/3019879#XG",
-  "scraped_at": "2026-07-22T05:35:15",
+  "scraped_at": "2026-07-26T05:46:51",
   "excluded_statuses": [
     "完售",
     "熱賣中"
@@ -9,7 +9,7 @@
     "完售",
     "熱賣中"
   ],
-  "count": 24,
+  "count": 25,
   "items": [
     {
       "performer": "natori",
@@ -285,6 +285,34 @@
         "一般販售：2026/8/5（三）12:00（視主辦單位票券販售情況，亦有不實施之可能）",
         "票價：NT$5280 / 4880 / 4280 / 3280 / 2280 / 800 / 身障席400",
         "售票平台：遠大售票Ticket Plus（ 登記抽選 、 一般販售 ）"
+      ]
+    },
+    {
+      "performer": "拍謝少年",
+      "concert_date_from_table": "10/10",
+      "location_from_table": "高雄流行音樂中心海音館",
+      "sale_status": "7/27全面啟售",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#拍謝少年",
+      "detail_title": "高雄演唱會｜拍謝少年「噪音特區Noise Zone」2026 Takao Rock打狗祭：Hi-ing 5",
+      "concert_time": "2026/10/10（六）19:00",
+      "concert_location": "高雄流行音樂中心海音館",
+      "sale_time": "粉虱通訊訂閱會員優先購：2026/7/25（六）14:00 - 23:59\n高流會員95折優先購：2026/7/26（日）14:00 - 23:59\n全面啟售：2026/7/27（一）14:00",
+      "ticket_platform": "KKTIX 、全家便利商店FamiPort",
+      "ticket_platform_links": [
+        {
+          "name": "KKTIX",
+          "url": "https://kpmc.kktix.cc/events/hi-ing5?tapeID=kp06HI3m2"
+        }
+      ],
+      "raw_detail_items": [
+        "演出時間：2026/10/10（六）19:00",
+        "演出地點： 高雄流行音樂中心海音館",
+        "售票時間：",
+        "粉虱通訊訂閱會員優先購：2026/7/25（六）14:00 - 23:59",
+        "高流會員95折優先購：2026/7/26（日）14:00 - 23:59",
+        "全面啟售：2026/7/27（一）14:00",
+        "票價：NT$ 2680 / 2480 / 1880 / 1340（身障票）/ 1240（身障票）/ 980 / 4人套票每張2600（限1F搖滾區）",
+        "售票平台： KKTIX 、全家便利商店FamiPort"
       ]
     },
     {
