@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.businessweekly.com.tw/style/blog/3019879#XG",
-  "scraped_at": "2026-07-29T05:37:55",
+  "scraped_at": "2026-08-02T05:42:31",
   "excluded_statuses": [
     "完售",
     "熱賣中"
@@ -126,31 +126,6 @@
       ]
     },
     {
-      "performer": "梁文音",
-      "concert_date_from_table": "9/6",
-      "location_from_table": "Legacy Taichung",
-      "sale_status": "7/28開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#梁文音",
-      "detail_title": "台中演唱會｜梁文音「約哪幾點？」讚聲演唱會台中場",
-      "concert_time": "2026/9/6（日）16:30",
-      "concert_location": "Legacy Taichung",
-      "sale_time": "2026/7/28（二）13:00開賣",
-      "ticket_platform": "寬宏售票",
-      "ticket_platform_links": [
-        {
-          "name": "寬宏售票",
-          "url": "https://kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D27F0J"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/9/6（日）16:30",
-        "演唱會地點： Legacy Taichung",
-        "售票時間：2026/7/28（二）13:00開賣",
-        "票價：NT$1680",
-        "售票平台： 寬宏售票"
-      ]
-    },
-    {
       "performer": "東！帶我走 出發吧 來台東唱",
       "concert_date_from_table": "9/12-13",
       "location_from_table": "台東市國際地標",
@@ -198,6 +173,38 @@
         "公開發售：2026/7/29（三）12:00",
         "票價：NT$6480 / 6080 / 5680 / 4680 / 3680 / 2340（愛心席）",
         "售票平台： Weverse 、KKTIX"
+      ]
+    },
+    {
+      "performer": "彭佳慧",
+      "concert_date_from_table": "10/3\n11/21",
+      "location_from_table": "台北小巨蛋\n高雄巨蛋",
+      "sale_status": "8/3全面啟售",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#彭佳慧",
+      "detail_title": "台北高雄演唱會｜彭佳慧「數著時間的日子」巡迴演唱會",
+      "concert_time": "2026/10/3（六）19:30\n2026/11/21（六）17:00",
+      "concert_location": "台北小巨蛋\n高雄場：\n高雄巨蛋",
+      "sale_time": "國泰世華世界卡尊榮限定優先購票：2026/7/31（五）10:00-13:00\n國泰世華CUBE信用卡優先購票：2026/7/31（五）14:00-17:00\n全面開賣時間：2026/8/3（一）12:00",
+      "ticket_platform": "寬宏售票系統 、萊爾富及OK便利商店",
+      "ticket_platform_links": [
+        {
+          "name": "寬宏售票系統",
+          "url": "https://kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1D3G65D"
+        }
+      ],
+      "raw_detail_items": [
+        "台北場：",
+        "演出日期：2026/10/3（六）19:30",
+        "演出地點： 台北小巨蛋",
+        "高雄場：",
+        "演出日期：2026/11/21（六）17:00",
+        "演出地點： 高雄巨蛋",
+        "售票時間：",
+        "國泰世華世界卡尊榮限定優先購票：2026/7/31（五）10:00-13:00",
+        "國泰世華CUBE信用卡優先購票：2026/7/31（五）14:00-17:00",
+        "全面開賣時間：2026/8/3（一）12:00",
+        "票價：NT$4680 / 4280 / 3880 / 3480 / 2880 / 2480 / 1880 / 800（信用卡優先購票僅開放前3高票價）",
+        "售票平台： 寬宏售票系統 、萊爾富及OK便利商店"
       ]
     },
     {
@@ -263,20 +270,29 @@
       "performer": "BIGBANG",
       "concert_date_from_table": "10/10-11",
       "location_from_table": "台北大巨蛋",
-      "sale_status": "待公告",
+      "sale_status": "8/20全面啟售",
       "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#BIGBANG台北",
       "detail_title": "台北演唱會｜BIGBANG《BIGBANG 2026 WORLD TOUR》",
       "concert_time": "2026/10/10（六）～10/11（日）",
       "concert_location": "台北大巨蛋",
-      "sale_time": "待公告",
-      "ticket_platform": "待公告",
-      "ticket_platform_links": [],
+      "sale_time": "BIGBANG V.I.P MEMBERSHIP SURVEY登記時間：2026/7/29（三）10:0～2026/8/2（日）23:59\nBIGBANG V.I.P MEMBERSHIP PRESALE優先購：2026/8/17（一）10:00-23:59\n中國信託卡友優先購：2026/8/18（二）10:00-23:59\n全面啟售：2026/8/20（四）10:00",
+      "ticket_platform": "遠大售票系統",
+      "ticket_platform_links": [
+        {
+          "name": "遠大售票系統",
+          "url": "https://ticketplus.com.tw/activity/21d3c3504ff522a6732789a46f5796d7"
+        }
+      ],
       "raw_detail_items": [
         "演唱會時間：2026/10/10（六）～10/11（日）",
         "演唱會地點： 台北大巨蛋",
-        "售票時間：待公告",
-        "票價：待公告",
-        "售票平台：待公告"
+        "售票時間：",
+        "BIGBANG V.I.P MEMBERSHIP SURVEY登記時間：2026/7/29（三）10:0～2026/8/2（日）23:59",
+        "BIGBANG V.I.P MEMBERSHIP PRESALE優先購：2026/8/17（一）10:00-23:59",
+        "中國信託卡友優先購：2026/8/18（二）10:00-23:59",
+        "全面啟售：2026/8/20（四）10:00",
+        "票價：NT $9430 / 9380 / 8880 / 8380 / 7980 / 6980 / 6480 / 4980 / 3980 / 2980（身心障礙優惠席 NT$ 3990 / 3490）",
+        "售票平台： 遠大售票系統"
       ]
     },
     {
@@ -311,66 +327,32 @@
       ]
     },
     {
-      "performer": "MUSIC EXPO",
-      "concert_date_from_table": "10/24-25",
-      "location_from_table": "台北小巨蛋",
-      "sale_status": "7/28開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#MUSIC EXPO",
-      "detail_title": "台北音樂節｜MUSIC EXPO LIVE 2026 in TAIPEI",
-      "concert_time": "2026/10/24（六）18:00、2026/10/25（日）18:00",
-      "concert_location": "台北小巨蛋\n演出陣容：\n2026/10/24（六）：AiNA THE END、FRUITS ZIPPER、Hearts2Hearts、King & Prince\n2026/10/25（日）：ATEEZ、NCT WISH、Sakurazaka46（櫻坂46）、&TEAM",
-      "sale_time": "2026/7/28（二）12:00開賣",
-      "ticket_platform": "寬宏售票（ 10/24 、 10/25 ）",
+      "performer": "yung kai",
+      "concert_date_from_table": "11/11",
+      "location_from_table": "Zepp New Taipei",
+      "sale_status": "8/6全面啟售",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#yung kai",
+      "detail_title": "台北演唱會｜yung kai「stay with the ocean, i'll find you: Asia 2026」",
+      "concert_time": "",
+      "concert_location": "Zepp New Taipei",
+      "sale_time": "Artist Presale：2026/8/3（一）12:00-23:59\n玉山或星展萬事達卡預售票：2026/8/4（二）10:00～2026/8/5（三）10:00\nLive Nation Taiwan會員預售：2026/8/5（三）12:00-23:59\n正式開賣：2026/8/6（四）12:00",
+      "ticket_platform": "拓元售票系統",
       "ticket_platform_links": [
         {
-          "name": "10/24",
-          "url": "https://kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CXNJEX&tapeID=en04NviUr"
-        },
-        {
-          "name": "10/25",
-          "url": "https://kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1CXXK2O&tapeID=en04kyaUj"
+          "name": "拓元售票系統",
+          "url": "https://tixcraft.com/activity/detail/26_yungkai"
         }
       ],
       "raw_detail_items": [
-        "演唱會時間：2026/10/24（六）18:00、2026/10/25（日）18:00",
-        "演唱會地點： 台北小巨蛋",
-        "演出陣容：",
-        "2026/10/24（六）：AiNA THE END、FRUITS ZIPPER、Hearts2Hearts、King & Prince",
-        "2026/10/25（日）：ATEEZ、NCT WISH、Sakurazaka46（櫻坂46）、&TEAM",
-        "售票時間：2026/7/28（二）12:00開賣",
-        "票價：NT$6280 / 5880 / 5280 / 4880 / 3880 / 2880 / 800",
-        "售票平台：寬宏售票（ 10/24 、 10/25 ）"
-      ]
-    },
-    {
-      "performer": "木村拓哉",
-      "concert_date_from_table": "11/13-14",
-      "location_from_table": "台北流行音樂中心",
-      "sale_status": "7/29開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#木村拓哉",
-      "detail_title": "台北演唱會｜木村拓哉「TAKUYA KIMURA Live Tour 2026 Checkpoint」海外巡演",
-      "concert_time": "2026/11/13（五）19:00\n2026/11/14（六）18:00",
-      "concert_location": "台北流行音樂中心表演廳",
-      "sale_time": "台灣在住登記抽選：2026/7/6（一）13:00～2026/7/8（三）13:00\n全球登記抽選：2026/7/13（一）13:00～2026/7/15（三）13:00\n一般販售：2026/7/29（三）12:00\n備註：本活動採全實名制與預約抽選制售票，一般販售階段僅販售抽選清票後之剩餘票券。",
-      "ticket_platform": "Ticket Plus遠大售票系統",
-      "ticket_platform_links": [
-        {
-          "name": "Ticket Plus遠大售票系統",
-          "url": "https://ticketplus.com.tw/activity/39e011c895a371c40416497f696652bd"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：",
-        "2026/11/13（五）19:00",
-        "2026/11/14（六）18:00",
-        "演唱會地點： 台北流行音樂中心表演廳",
+        "演出資訊：演出日期：2026/11/11（三）20:00",
+        "演出地點： Zepp New Taipei",
         "售票時間：",
-        "台灣在住登記抽選：2026/7/6（一）13:00～2026/7/8（三）13:00",
-        "全球登記抽選：2026/7/13（一）13:00～2026/7/15（三）13:00",
-        "一般販售：2026/7/29（三）12:00",
-        "備註：本活動採全實名制與預約抽選制售票，一般販售階段僅販售抽選清票後之剩餘票券。",
-        "票價：NT$5800 / 4800 / 4200 / 3800 / 2900 / 2100",
-        "售票平台： Ticket Plus遠大售票系統"
+        "Artist Presale：2026/8/3（一）12:00-23:59",
+        "玉山或星展萬事達卡預售票：2026/8/4（二）10:00～2026/8/5（三）10:00",
+        "Live Nation Taiwan會員預售：2026/8/5（三）12:00-23:59",
+        "正式開賣：2026/8/6（四）12:00",
+        "票價：一般票NT$1680起至2380 / 身障優惠票NT$940（VIP MEET & GREET PACKAGE NT$4680）",
+        "售票平台： 拓元售票系統"
       ]
     },
     {
@@ -440,6 +422,34 @@
       ]
     },
     {
+      "performer": "AKASAKI",
+      "concert_date_from_table": "11/28",
+      "location_from_table": "Zepp New Taipei",
+      "sale_status": "8/17-19抽選登記",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#AKASAKI",
+      "detail_title": "台北演唱會｜AKASAKI「1st WORLD TOUR \"ONIGIRI\"」",
+      "concert_time": "",
+      "concert_location": "Zepp New Taipei",
+      "sale_time": "登記抽選：2026/8/17（一）13:00-2026/8/19（三）13:00\n一般販售：2026/9/2（三）12:00\nVIP PASS加購登記抽選：2026/9/16（三）13:00～2026/9/17（四）13:00",
+      "ticket_platform": "遠大售票系統",
+      "ticket_platform_links": [
+        {
+          "name": "遠大售票系統",
+          "url": "https://ticketplus.com.tw/activity/f460ae54a4b5e3be3abc91fd13a641e2"
+        }
+      ],
+      "raw_detail_items": [
+        "演出資訊：演出日期：2026/11/28（六）18:00",
+        "演出地點： Zepp New Taipei",
+        "售票時間：",
+        "登記抽選：2026/8/17（一）13:00-2026/8/19（三）13:00",
+        "一般販售：2026/9/2（三）12:00",
+        "VIP PASS加購登記抽選：2026/9/16（三）13:00～2026/9/17（四）13:00",
+        "票價：2F座席A區 NT$3200 / 2F座席B區 NT$3000 / 1F站席 NT$2800 / 2F站席 NT$2800 / 身心障礙優惠席NT$1400（VIP PASS加購價 NT$800）",
+        "售票平台： 遠大售票系統"
+      ]
+    },
+    {
       "performer": "Stray Kids",
       "concert_date_from_table": "12/12",
       "location_from_table": "台北大巨蛋",
@@ -460,28 +470,30 @@
       ]
     },
     {
-      "performer": "滅火器",
+      "performer": "顏社",
       "concert_date_from_table": "12/12",
-      "location_from_table": "高雄巨蛋",
-      "sale_status": "7/31開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#滅火器",
-      "detail_title": "高雄演唱會｜滅火器「ON FIRE DAY 2026」高雄巨蛋演唱會",
-      "concert_time": "2026/12/12（六）19:30",
-      "concert_location": "高雄巨蛋",
-      "sale_time": "2026/7/31（五）12:00開賣",
-      "ticket_platform": "KKTIX 、全家便利商店FamiPort",
+      "location_from_table": "台北流行音樂中心表演廳",
+      "sale_status": "8/5全面啟售",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#顏社",
+      "detail_title": "台北演唱會｜顏社「K21」顏社21週年演唱會",
+      "concert_time": "2026/12/12（六）19:00",
+      "concert_location": "台北流行音樂中心表演廳",
+      "sale_time": "顏社會員優先購：2026/8/4（二）12:00-23:59\n全面啟售：2026/8/5（三）12:00",
+      "ticket_platform": "KKTIX 、全家FamiPort",
       "ticket_platform_links": [
         {
           "name": "KKTIX",
-          "url": "https://kklivetw.kktix.cc/events/7ed8da97"
+          "url": "https://kaoinc.kktix.cc/events/kiorfd"
         }
       ],
       "raw_detail_items": [
-        "演唱會時間：2026/12/12（六）19:30",
-        "演唱會地點： 高雄巨蛋",
-        "售票時間：2026/7/31（五）12:00開賣",
-        "票價：NT$3500 / 3000 / 2699 / 2400 / 2000 / 1600 / 1500 / 1000 / 500",
-        "售票平台： KKTIX 、全家便利商店FamiPort"
+        "演出日期：2026/12/12（六）19:00",
+        "演出地點： 台北流行音樂中心表演廳",
+        "售票時間：",
+        "顏社會員優先購：2026/8/4（二）12:00-23:59",
+        "全面啟售：2026/8/5（三）12:00",
+        "票價：NT$4280 / 3880 / 3380 / 2580 / 1880 / 1380",
+        "售票平台： KKTIX 、全家FamiPort"
       ]
     },
     {
