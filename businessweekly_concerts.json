@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.businessweekly.com.tw/style/blog/3019879#XG",
-  "scraped_at": "2026-08-30T08:31:26",
+  "scraped_at": "2026-09-02T07:18:09",
   "excluded_statuses": [
     "完售",
     "熱賣中"
@@ -9,7 +9,7 @@
     "完售",
     "熱賣中"
   ],
-  "count": 20,
+  "count": 18,
   "items": [
     {
       "performer": "東！帶我走 出發吧 來台東唱",
@@ -30,6 +30,42 @@
         "2026/9/12（六）：羅時豐、李聖傑、江美琪、陳勢安、林曉培、BOXING、黃妃、PONAY卜耐、動力火車",
         "2026/9/13（日）：信、戴愛玲、黃宣、9m88、李玖哲、阿妹妹、許茹芸、杜德偉",
         "票價：免費入場"
+      ]
+    },
+    {
+      "performer": "BIGBANG",
+      "concert_date_from_table": "10/9-11",
+      "location_from_table": "台北大巨蛋",
+      "sale_status": "加場9/7全面開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#BIGBANG台北",
+      "detail_title": "台北演唱會｜BIGBANG《BIGBANG 2026 WORLD TOUR》",
+      "concert_time": "2026/19/9（五）18:00（加場）\n2026/10/10（六）18:00\n2026/10/11（日）18:00",
+      "concert_location": "台北大巨蛋",
+      "sale_time": "BIGBANG V.I.P MEMBERSHIP SURVEY登記時間：2026/7/29（三）10:0～2026/8/2（日）23:59\nBIGBANG V.I.P MEMBERSHIP PRESALE優先購：2026/8/17（一）10:00-23:59\n中國信託卡友優先購：2026/8/18（二）10:00-23:59\n全面啟售：2026/8/20（四）10:00\n加場｜BIGBANG V.I.P MEMBERSHIP優先購：2026/9/4（五）10:00\n加場｜中國信託卡友優先購：2026/9/5（六）10:00\n加場｜Trip .com／Klook優先購：2026/9/6（日）10:00\n加場｜全面啟售：2026/9/7（一）10:00",
+      "ticket_platform": "遠大售票系統",
+      "ticket_platform_links": [
+        {
+          "name": "遠大售票系統",
+          "url": "https://ticketplus.com.tw/activity/21d3c3504ff522a6732789a46f5796d7"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：",
+        "2026/19/9（五）18:00（加場）",
+        "2026/10/10（六）18:00",
+        "2026/10/11（日）18:00",
+        "演唱會地點： 台北大巨蛋",
+        "售票時間：",
+        "BIGBANG V.I.P MEMBERSHIP SURVEY登記時間：2026/7/29（三）10:0～2026/8/2（日）23:59",
+        "BIGBANG V.I.P MEMBERSHIP PRESALE優先購：2026/8/17（一）10:00-23:59",
+        "中國信託卡友優先購：2026/8/18（二）10:00-23:59",
+        "全面啟售：2026/8/20（四）10:00",
+        "加場｜BIGBANG V.I.P MEMBERSHIP優先購：2026/9/4（五）10:00",
+        "加場｜中國信託卡友優先購：2026/9/5（六）10:00",
+        "加場｜Trip .com／Klook優先購：2026/9/6（日）10:00",
+        "加場｜全面啟售：2026/9/7（一）10:00",
+        "票價：NT $9430 / 9380 / 8880 / 8380 / 7980 / 6980 / 6480 / 4980 / 3980 / 2980（身心障礙優惠席 NT$ 3990 / 3490）",
+        "售票平台： 遠大售票系統"
       ]
     },
     {
@@ -76,26 +112,6 @@
       ]
     },
     {
-      "performer": "JESSICA鄭秀妍",
-      "concert_date_from_table": "10/24",
-      "location_from_table": "國立台灣大學綜合體育館1樓",
-      "sale_status": "8/29開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#JESSICA鄭秀妍",
-      "detail_title": "台北演唱會｜JESSICA「Reflections」2026 IN TAIPEI",
-      "concert_time": "2026/10/24（六）18:00",
-      "concert_location": "國立台灣大學綜合體育館1樓",
-      "sale_time": "2026/8/29（六）13:00開賣",
-      "ticket_platform": "KKTIX",
-      "ticket_platform_links": [],
-      "raw_detail_items": [
-        "演唱會時間：2026/10/24（六）18:00",
-        "演唱會地點： 國立台灣大學綜合體育館1樓",
-        "售票時間：2026/8/29（六）13:00開賣",
-        "票價：NT$5880（VIP） / 4880 / 3880 / 愛心席2940",
-        "售票平台：KKTIX"
-      ]
-    },
-    {
       "performer": "告五人",
       "concert_date_from_table": "11/7",
       "location_from_table": "台北小巨蛋",
@@ -121,34 +137,6 @@
         "全面啟售：2026/9/13（日）12:00",
         "票價：NT$3850 / 3250 / 2950 / 2450 / 1950 / 1550 / 800 / 輪椅身障席及非輪椅身障席400",
         "售票平台： 拓元售票系統"
-      ]
-    },
-    {
-      "performer": "FNC BAND KINGDOM",
-      "concert_date_from_table": "11/7-8",
-      "location_from_table": "林口體育館",
-      "sale_status": "8/29、8/30全面開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#FNC BAND KINGDOM",
-      "detail_title": "桃園演唱會｜FNC娛樂「2026 FNC BAND KINGDOM IN TAIPEI」",
-      "concert_time": "2026/11/7（六）14:30\n2026/11/8（日）14:30",
-      "concert_location": "國立體育大學綜合體育館 （林口體育館）",
-      "sale_time": "遠傳電信、friDay影音會員獨享優先購：\n11/7場次：2026/8/28（五）11:00～16:59\n11/8場次：2026/8/28（五）13:00～16:59\n一般販售：\n11/7場次：2026/8/29（六）11:00\n11/8場次：2026/8/30（日）11:00",
-      "ticket_platform": "Ticket Plus遠大售票網站",
-      "ticket_platform_links": [],
-      "raw_detail_items": [
-        "演唱會時間：",
-        "2026/11/7（六）14:30",
-        "2026/11/8（日）14:30",
-        "演唱會地點： 國立體育大學綜合體育館 （林口體育館）",
-        "售票時間：",
-        "遠傳電信、friDay影音會員獨享優先購：",
-        "11/7場次：2026/8/28（五）11:00～16:59",
-        "11/8場次：2026/8/28（五）13:00～16:59",
-        "一般販售：",
-        "11/7場次：2026/8/29（六）11:00",
-        "11/8場次：2026/8/30（日）11:00",
-        "票價：NT$6580 / 5880 / 4880 / 3880 / 愛心席2940",
-        "售票平台：Ticket Plus遠大售票網站"
       ]
     },
     {
@@ -302,33 +290,6 @@
       ]
     },
     {
-      "performer": "藝聲",
-      "concert_date_from_table": "11/29",
-      "location_from_table": "高雄流行音樂中心海音館",
-      "sale_status": "8/30正式開賣",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#藝聲",
-      "detail_title": "高雄演唱會｜藝聲2026 YESUNG 10TH ANNIVERSARY TOUR – ABOUT THE THINGS WE CALLED ORDINARY IN KAOHSIUNG",
-      "concert_time": "2026/11/29（日）17:00",
-      "concert_location": "高雄流行音樂中心海音館",
-      "sale_time": "Weverse's SUPER JUNIOR official Fanclub \"E.L.F.\" membership(GL)預購：2026/8/30（日）11:00～15:00\n正式開賣：2026/8/30（日）18:00",
-      "ticket_platform": "KKTIX",
-      "ticket_platform_links": [
-        {
-          "name": "KKTIX",
-          "url": "https://farglorycreative.kktix.cc/events/klor6r"
-        }
-      ],
-      "raw_detail_items": [
-        "演唱會時間：2026/11/29（日）17:00",
-        "演唱會地點： 高雄流行音樂中心海音館",
-        "售票時間：",
-        "Weverse's SUPER JUNIOR official Fanclub \"E.L.F.\" membership(GL)預購：2026/8/30（日）11:00～15:00",
-        "正式開賣：2026/8/30（日）18:00",
-        "票價：VIP NT$5880 / 4880 / 3880 / 2880",
-        "售票平台： KKTIX"
-      ]
-    },
-    {
       "performer": "Stray Kids",
       "concert_date_from_table": "12/12",
       "location_from_table": "台北大巨蛋",
@@ -402,7 +363,7 @@
       "concert_date_from_table": "2027/1/2",
       "location_from_table": "台北小巨蛋",
       "sale_status": "待公告",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#NCT 127",
+      "detail_url": "",
       "detail_title": "台北演唱會｜NCT 127「5TH TOUR NEO CITY : THE RED LINE」",
       "concert_time": "2027/1/2（六）",
       "concert_location": "台北小巨蛋",
@@ -415,6 +376,30 @@
         "售票時間：待公告",
         "票價：待公告",
         "售票平台：待公告"
+      ]
+    },
+    {
+      "performer": "YOASOBI",
+      "concert_date_from_table": "2027/1/9-10",
+      "location_from_table": "台北大巨蛋",
+      "sale_status": "9/17-20抽選登記",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#YOASOBI",
+      "detail_title": "YOASOBI ASIA 10-CITY DOME & STADIUM TOUR 2026-2027",
+      "concert_time": "2027/1/9（六）18:00（15:00入場）\n2027/1/10（日）18:00（15:00入場）",
+      "concert_location": "台北大巨蛋",
+      "sale_time": "國泰世華銀行CUBE信用卡卡友優先購：2026/9/16（三）12:00-18:00\n實名抽選登記：2026/9/17（四）12:00-2026/9/20（日）19:00",
+      "ticket_platform": "遠大售票系統",
+      "ticket_platform_links": [],
+      "raw_detail_items": [
+        "演出時間：",
+        "2027/1/9（六）18:00（15:00入場）",
+        "2027/1/10（日）18:00（15:00入場）",
+        "演出地點： 台北大巨蛋",
+        "售票時間：",
+        "國泰世華銀行CUBE信用卡卡友優先購：2026/9/16（三）12:00-18:00",
+        "實名抽選登記：2026/9/17（四）12:00-2026/9/20（日）19:00",
+        "票價：NT$6880 / 6280 / 5880 / 4880 / 3880 / 2800 / 1800（本場次採實名登記抽選）",
+        "售票平台：遠大售票系統"
       ]
     },
     {
@@ -506,26 +491,6 @@
         "正式開賣：2026/9/14（一）10:00",
         "票價：NT$3380～7980 / 身障優惠票NT$2990 / 2690 / 2490",
         "售票平台： 拓元售票 / Trip.com APP"
-      ]
-    },
-    {
-      "performer": "YOASOBI",
-      "concert_date_from_table": "2027/1（待公布）",
-      "location_from_table": "台北大巨蛋（待公布）",
-      "sale_status": "待公布",
-      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#YOASOBI",
-      "detail_title": "YOASOBI ASIA 10-CITY DOME & STADIUM TOUR 2026-2027",
-      "concert_time": "2027/1（待公布）",
-      "concert_location": "台北大巨蛋",
-      "sale_time": "待公布",
-      "ticket_platform": "待公布",
-      "ticket_platform_links": [],
-      "raw_detail_items": [
-        "演出時間：2027/1（待公布）",
-        "演出地點：台北大巨蛋",
-        "售票時間：待公布",
-        "票價：待公布",
-        "售票平台：待公布"
       ]
     }
   ]
