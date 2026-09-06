@@ -1,6 +1,6 @@
 {
   "source_url": "https://www.businessweekly.com.tw/style/blog/3019879#XG",
-  "scraped_at": "2026-09-02T07:18:09",
+  "scraped_at": "2026-09-06T07:17:30",
   "excluded_statuses": [
     "完售",
     "熱賣中"
@@ -9,7 +9,7 @@
     "完售",
     "熱賣中"
   ],
-  "count": 18,
+  "count": 22,
   "items": [
     {
       "performer": "東！帶我走 出發吧 來台東唱",
@@ -30,6 +30,35 @@
         "2026/9/12（六）：羅時豐、李聖傑、江美琪、陳勢安、林曉培、BOXING、黃妃、PONAY卜耐、動力火車",
         "2026/9/13（日）：信、戴愛玲、黃宣、9m88、李玖哲、阿妹妹、許茹芸、杜德偉",
         "票價：免費入場"
+      ]
+    },
+    {
+      "performer": "Henry Moodie",
+      "concert_date_from_table": "10/5",
+      "location_from_table": "Legacy Taipei",
+      "sale_status": "9/11正式開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#Henry Moodie台北",
+      "detail_title": "台北演唱會｜Henry Moodie「Mood Swings World Tour」加場",
+      "concert_time": "2026/10/5（一）19:30",
+      "concert_location": "Legacy Taipei",
+      "sale_time": "Artist Presale：2026/9/8（二）11:00-23:59\n玉山或星展萬事達卡預售票：2026/9/9（三）10:00-2026/9/10（四）10:00\nLive Nation Taiwan會員預售：2026/9/10（四）12:00-23:59\n正式開賣：2026/9/11（五）12:00",
+      "ticket_platform": "拓元售票系統 、Live Nation Taiwan官網",
+      "ticket_platform_links": [
+        {
+          "name": "拓元售票系統",
+          "url": "https://tixcraft.com/activity/detail/26_henrytp"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：2026/10/5（一）19:30",
+        "演唱會地點： Legacy Taipei",
+        "售票時間：",
+        "Artist Presale：2026/9/8（二）11:00-23:59",
+        "玉山或星展萬事達卡預售票：2026/9/9（三）10:00-2026/9/10（四）10:00",
+        "Live Nation Taiwan會員預售：2026/9/10（四）12:00-23:59",
+        "正式開賣：2026/9/11（五）12:00",
+        "票價：VIP套票NT$5680 / VIP套票NT$4680 / 一般票NT$2280 / 身障優惠及陪同票NT$1140",
+        "售票平台： 拓元售票系統 、Live Nation Taiwan官網"
       ]
     },
     {
@@ -140,6 +169,31 @@
       ]
     },
     {
+      "performer": "徐暐翔",
+      "concert_date_from_table": "11/8",
+      "location_from_table": "Legacy Taipei",
+      "sale_status": "9/14開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#徐暐翔",
+      "detail_title": "台北演唱會｜徐暐翔「愛火山的人」專場演唱會",
+      "concert_time": "2026/11/8（日）18:00",
+      "concert_location": "Legacy Taipei",
+      "sale_time": "2026/9/14（一）11:00",
+      "ticket_platform": "拓元售票系統 、Live Nation Taiwan官網",
+      "ticket_platform_links": [
+        {
+          "name": "拓元售票系統",
+          "url": "https://tixcraft.com/activity/detail/26_vashhsu"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：2026/11/8（日）18:00",
+        "演唱會地點：Legacy Taipei",
+        "售票時間：2026/9/14（一）11:00",
+        "票價：一般站區NT$1450 / 身障優惠票NT$725",
+        "售票平台： 拓元售票系統 、Live Nation Taiwan官網"
+      ]
+    },
+    {
       "performer": "LE SSERAFIM",
       "concert_date_from_table": "11/14-15",
       "location_from_table": "國立體育大學綜合體育館",
@@ -166,6 +220,31 @@
         "一般售票：2026/9/6（日）12:00",
         "票價：VIP NT$6980 / 6380 / 5880 / 4680 / 3680 / 身障票NT$3190",
         "售票平台： 拓元售票系統"
+      ]
+    },
+    {
+      "performer": "N.Flying",
+      "concert_date_from_table": "11/21",
+      "location_from_table": "高雄流行音樂中心海音館",
+      "sale_status": "9/10開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#N.Flying",
+      "detail_title": "高雄演唱會｜N.Flying「&CON5 : into REM」IN KAOHSIUNG",
+      "concert_time": "2026/11/21（六）18:00",
+      "concert_location": "高雄流行音樂中心海音館",
+      "sale_time": "2026/9/10（四）14:00",
+      "ticket_platform": "寬宏售票",
+      "ticket_platform_links": [
+        {
+          "name": "寬宏售票",
+          "url": "https://kham.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1F24HRG"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：2026/11/21（六）18:00",
+        "演唱會地點： 高雄流行音樂中心海音館",
+        "售票時間：2026/9/10（四）14:00",
+        "票價：NT$5980 / 5280 / 4680 / 3680",
+        "售票平台： 寬宏售票"
       ]
     },
     {
@@ -376,6 +455,41 @@
         "售票時間：待公告",
         "票價：待公告",
         "售票平台：待公告"
+      ]
+    },
+    {
+      "performer": "BOYNEXTDOOR",
+      "concert_date_from_table": "2027/1/8-10",
+      "location_from_table": "國立體育大學綜合體育館",
+      "sale_status": "9/13加場開賣",
+      "detail_url": "https://www.businessweekly.com.tw/style/blog/3019879#BOYNEXTDOOR",
+      "detail_title": "桃園演唱會｜BOYNEXTDOOR「KNOCK ON Vol.2」IN TAIPEI",
+      "concert_time": "2027/1/8（五）19:00\n2027/1/9（六）18:00\n2027/1/10（日）17:00",
+      "concert_location": "國立體育大學綜合體育館（林口體育館）",
+      "sale_time": "ONEDOOR官方會員預購：2026/7/25（六）13:00-17:59\n正式開賣：2026/7/26（日）13:00\n加場（1/10）：2026/8/9（日）13:00\n再加場（1/8）：2026/9/13（日）12:00",
+      "ticket_platform": "拓元售票系統",
+      "ticket_platform_links": [
+        {
+          "name": "拓元售票系統",
+          "url": "https://tixcraft.com/activity/detail/27_bnd"
+        }
+      ],
+      "raw_detail_items": [
+        "演唱會時間：",
+        "2027/1/8（五）19:00",
+        "2027/1/9（六）18:00",
+        "2027/1/10（日）17:00",
+        "演唱會地點： 國立體育大學綜合體育館（林口體育館）",
+        "售票時間：",
+        "ONEDOOR官方會員預購：2026/7/25（六）13:00-17:59",
+        "正式開賣：2026/7/26（日）13:00",
+        "加場（1/10）：2026/8/9（日）13:00",
+        "再加場（1/8）：2026/9/13（日）12:00",
+        "票價：",
+        "VIP搖滾站區NT$6980",
+        "看台座位區NT$5980 / 5280 / 4980 / 3980 / 2980",
+        "身障席NT$2990",
+        "售票平台： 拓元售票系統"
       ]
     },
     {
